@@ -90,7 +90,7 @@
       "optional": true
     }
   },
-  "exports": {
+  "exports": { 
     ".": {
       "import": "./build/index.js",
       "require": "./build/index.js",
