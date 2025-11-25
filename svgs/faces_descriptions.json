@@ -1,0 +1,4699 @@
+{
+  "accessories": {
+    "eye-black": {
+      "id": "eye-black",
+      "category": "accessories",
+      "short_label": "Eye-black stripes",
+      "description": "Two simple black strips or smudges placed beneath each eye like athletic eye black. The look is bold and minimal, giving a sporty or intense appearance that reads as face paint rather than makeup.",
+      "tags": [
+        "sporty",
+        "face-paint",
+        "under-eye",
+        "bold",
+        "minimal",
+        "athletic"
+      ]
+    },
+    "hat": {
+      "id": "hat",
+      "category": "accessories",
+      "short_label": "classic brim hat",
+      "description": "A generic brimmed hat with a rounded crown and moderate brim, designed to sit neatly on top of the head. Minimal detailing and flat-color shapes make it a versatile, unisex accessory suitable for casual or classic avatars.",
+      "tags": [
+        "brimmed",
+        "rounded",
+        "minimal",
+        "unisex",
+        "flat-color",
+        "casual"
+      ]
+    },
+    "hat2": {
+      "id": "hat2",
+      "category": "accessories",
+      "short_label": "Casual baseball cap",
+      "description": "A simple, low-profile baseball cap with a short curved bill and rounded crown. Minimal detailing and likely a single solid color or subtle panel seams, giving a clean, sporty look. Suits casual or athletic avatar styles and works as a unisex accessory.",
+      "tags": [
+        "baseball cap",
+        "brim",
+        "casual",
+        "sporty",
+        "simple",
+        "unisex"
+      ]
+    },
+    "hat3": {
+      "id": "hat3",
+      "category": "accessories",
+      "short_label": "Brimmed casual hat",
+      "description": "A mid-width brim hat with a rounded crown and a clean, minimal silhouette. Flat shapes and restrained detailing make it a neutral, unisex accessory that pairs well with casual or smart-casual avatars.",
+      "tags": [
+        "brimmed",
+        "rounded",
+        "casual",
+        "minimal",
+        "unisex",
+        "medium"
+      ]
+    },
+    "headband": {
+      "id": "headband",
+      "category": "accessories",
+      "short_label": "Classic headband",
+      "description": "A narrow band worn across the forehead or top of the head with a clean, symmetric silhouette. Simple and flat in profile, it reads as a casual or sporty fabric accessory, typically a single solid color or subtle stripe. Works to add a subtle styling detail without obscuring hair or face.",
+      "tags": [
+        "band",
+        "forehead",
+        "simple",
+        "casual",
+        "sporty",
+        "flat",
+        "accessory"
+      ]
+    },
+    "headband-high": {
+      "id": "headband-high",
+      "category": "accessories",
+      "short_label": "High headband",
+      "description": "A simple fabric band worn high on the forehead near the hairline, sitting above the brows. Clean, sporty/retro styling that keeps hair back and adds an active, youthful accent to the avatar.",
+      "tags": [
+        "high-placed",
+        "sporty",
+        "retro",
+        "fabric",
+        "simple",
+        "hair-accessory"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "accessories",
+      "short_label": "No accessory",
+      "description": "Empty accessory slot — the avatar has no additional adornments. Use for a minimal, clean, or default look when accessories should be omitted.",
+      "tags": [
+        "none",
+        "minimal",
+        "clean",
+        "default",
+        "unadorned",
+        "neutral"
+      ]
+    }
+  },
+  "body": {
+    "body": {
+      "id": "body",
+      "category": "body",
+      "short_label": "default body",
+      "description": "Generic, neutral torso with a straight posture and minimal clothing detail, designed as the base body for avatars. Clean, solid shapes and a simple neckline allow easy layering of clothes and accessories.",
+      "tags": [
+        "default",
+        "neutral",
+        "torso",
+        "unisex",
+        "minimal",
+        "solid-color",
+        "base"
+      ]
+    },
+    "body2": {
+      "id": "body2",
+      "category": "body",
+      "short_label": "Simple medium torso",
+      "description": "A straightforward, medium-build torso with a clean, minimal silhouette and neutral posture. Designed as a general-purpose body base, it likely shows basic casual clothing (e.g., a crew or short-sleeve top) with little or no ornamentation for gender-neutral use. Works well as a neutral starting point for adding accessories or poses.",
+      "tags": [
+        "medium-build",
+        "neutral",
+        "minimal",
+        "casual",
+        "short-sleeve",
+        "gender-neutral"
+      ]
+    },
+    "body3": {
+      "id": "body3",
+      "category": "body",
+      "short_label": "Neutral medium torso",
+      "description": "Stylized medium-build torso with rounded shoulders and a simple neckline, serving as a neutral base for outfits. Flat, minimal shading and single-color clothing make it easy to layer accessories or garments. Pose is upright and relaxed, conveying no strong emotion.",
+      "tags": [
+        "medium-build",
+        "neutral",
+        "rounded-shoulders",
+        "simple-shirt",
+        "flat-style",
+        "upright-pose"
+      ]
+    },
+    "body4": {
+      "id": "body4",
+      "category": "body",
+      "short_label": "Simple standing torso",
+      "description": "A neutral, general-purpose torso with rounded shoulders and a relaxed, upright posture. Rendered with simple clothing (short-sleeve shirt) and clean, minimal lines so it works as a versatile base for different heads and accessories.",
+      "tags": [
+        "neutral",
+        "rounded",
+        "relaxed",
+        "tshirt",
+        "minimal",
+        "versatile"
+      ]
+    },
+    "body5": {
+      "id": "body5",
+      "category": "body",
+      "short_label": "Neutral medium torso",
+      "description": "A neutral, medium-build torso with rounded shoulders and a straight, relaxed posture. The silhouette features simple, minimal clothing detail and slightly stylized proportions, suited for general-purpose or unisex avatars.",
+      "tags": [
+        "neutral",
+        "medium-build",
+        "rounded-shoulders",
+        "simple-clothing",
+        "stylized",
+        "unisex"
+      ]
+    }
+  },
+  "ear": {
+    "ear1": {
+      "id": "ear1",
+      "category": "ear",
+      "short_label": "Simple rounded ear",
+      "description": "Classic small, rounded ear in a minimal, flat-cartoon style. Features a single curved lobe and a subtle inner line for depth, suitable for neutral or default avatars.",
+      "tags": [
+        "rounded",
+        "small",
+        "minimal",
+        "cartoon",
+        "neutral",
+        "single-lobe"
+      ]
+    },
+    "ear2": {
+      "id": "ear2",
+      "category": "ear",
+      "short_label": "Simple rounded ear",
+      "description": "A basic, medium-sized ear with a smooth rounded outer shape and a single inner curve suggesting the ear fold. Clean and minimal line-art style that reads well at small sizes and fits neutral or cartoon avatars.",
+      "tags": [
+        "rounded",
+        "simple",
+        "medium",
+        "minimal",
+        "cartoon",
+        "neutral"
+      ]
+    },
+    "ear3": {
+      "id": "ear3",
+      "category": "ear",
+      "short_label": "stylized rounded ear",
+      "description": "A medium-sized, rounded ear with a smooth outer contour and a single inner fold indicating the concha and lobe. Minimal, cartoon-like detailing for a neutral, everyday avatar look.",
+      "tags": [
+        "rounded",
+        "medium",
+        "stylized",
+        "minimal",
+        "cartoon",
+        "neutral",
+        "visible-lobe"
+      ]
+    }
+  },
+  "eye": {
+    "eye1": {
+      "id": "eye1",
+      "category": "eye",
+      "short_label": "Simple open eye",
+      "description": "Classic, neutral cartoon eye with a rounded sclera and a centered dark pupil. Minimal detailing and no prominent lashes or eyelids, giving a calm, default gaze suitable for general-purpose avatars.",
+      "tags": [
+        "neutral",
+        "round",
+        "simple",
+        "open",
+        "cartoon",
+        "pupil",
+        "minimal"
+      ]
+    },
+    "eye10": {
+      "id": "eye10",
+      "category": "eye",
+      "short_label": "Medium almond eye",
+      "description": "A medium-sized, slightly almond-shaped eye with clean geometric lines and a single circular pupil. Minimal eyelash or line detail gives a neutral, calm expression suitable for modern or simplified avatar styles.",
+      "tags": [
+        "almond-shaped",
+        "medium",
+        "minimal",
+        "neutral",
+        "single-pupil",
+        "clean",
+        "calm"
+      ]
+    },
+    "eye11": {
+      "id": "eye11",
+      "category": "eye",
+      "short_label": "almond eye, soft gaze",
+      "description": "Slightly elongated almond-shaped eye with a defined upper lash line, a modest circular iris and a single highlight. Lower lash is minimal, giving a calm, neutral expression suitable for standard avatars or relaxed characters.",
+      "tags": [
+        "almond",
+        "neutral",
+        "minimal",
+        "soft",
+        "single-highlight",
+        "defined-upper-lash"
+      ]
+    },
+    "eye12": {
+      "id": "eye12",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "Stylized almond-shaped eye with a clean vector outline, medium-sized iris and a simple pupil. Conveys a neutral to slightly alert expression, suitable for general-purpose avatars and varied emotions.",
+      "tags": [
+        "almond",
+        "medium",
+        "neutral",
+        "minimal",
+        "stylized",
+        "alert"
+      ]
+    },
+    "eye13": {
+      "id": "eye13",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "Slightly elongated almond-shaped eye with a defined upper eyelid and a visible iris and pupil, rendered in a clean, minimalist line style. Subtle highlight suggests a natural, attentive expression suitable for neutral or calm avatars.",
+      "tags": [
+        "almond",
+        "neutral",
+        "defined-lid",
+        "minimal",
+        "attentive",
+        "medium-size"
+      ]
+    },
+    "eye14": {
+      "id": "eye14",
+      "category": "eye",
+      "short_label": "Upturned almond eye",
+      "description": "A medium-sized almond-shaped eye with a subtle upward tilt at the outer corner. Thin, clean eyelid stroke with minimal lashes and a simple filled iris plus small highlight creates a calm, attentive look. Suitable for neutral or subtly confident avatar expressions.",
+      "tags": [
+        "almond",
+        "upturned",
+        "medium",
+        "minimal",
+        "outlined",
+        "calm",
+        "confident"
+      ]
+    },
+    "eye15": {
+      "id": "eye15",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "Almond-shaped, slightly narrow eyes with clean vector outlines and a medium-sized iris. Minimal detail and subtle upper lash line create a calm, neutral expression suitable for many adult avatars. Designed in a simple, flat style with no heavy shading.",
+      "tags": [
+        "almond",
+        "neutral",
+        "medium",
+        "minimal",
+        "outlined",
+        "calm"
+      ]
+    },
+    "eye16": {
+      "id": "eye16",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "Stylized almond-shaped eye with a single visible iris and a simple pupil. Moderate size with a subtle upper eyelid line and minimal eyelashes, producing a calm, neutral expression ideal for general-purpose avatars.",
+      "tags": [
+        "almond",
+        "neutral",
+        "medium-size",
+        "minimal",
+        "stylized",
+        "single-iris",
+        "calm"
+      ]
+    },
+    "eye17": {
+      "id": "eye17",
+      "category": "eye",
+      "short_label": "Almond squint eye",
+      "description": "A moderately narrow, almond-shaped eye with a defined upper lid and a slightly squinted appearance. The iris is proportionally smaller and the design is clean and stylized, giving a calm or confident expression suitable for neutral or slightly skeptical avatars.",
+      "tags": [
+        "almond",
+        "narrow",
+        "slight-squint",
+        "stylized",
+        "minimal",
+        "calm",
+        "confident"
+      ]
+    },
+    "eye18": {
+      "id": "eye18",
+      "category": "eye",
+      "short_label": "relaxed almond eyes",
+      "description": "Almond-shaped eyes with a gentle outward taper and a thin upper eyelid line. Medium-size pupils and clean, minimalist vector shapes convey a calm, neutral expression suitable for everyday avatars.",
+      "tags": [
+        "almond",
+        "neutral",
+        "calm",
+        "minimal",
+        "thin-lid",
+        "medium-pupil",
+        "versatile"
+      ]
+    },
+    "eye19": {
+      "id": "eye19",
+      "category": "eye",
+      "short_label": "narrow almond eye",
+      "description": "A medium-narrow almond-shaped eye with a slightly upturned outer corner and a thin upper eyelid line. Features a small, centered pupil and minimal detailing (little or no eyelashes), producing a calm, neutral or mildly alert expression. Clean, modern line style suitable for understated or serious avatars.",
+      "tags": [
+        "almond",
+        "narrow",
+        "minimal",
+        "neutral",
+        "upturned",
+        "small-pupil"
+      ]
+    },
+    "eye2": {
+      "id": "eye2",
+      "category": "eye",
+      "short_label": "almond open eye",
+      "description": "Medium-sized almond-shaped eye with a single solid pupil and a small highlight; simple, clean linework creates a neutral, alert expression. Suited for friendly or default avatars that need a calm, attentive look.",
+      "tags": [
+        "almond",
+        "neutral",
+        "open",
+        "medium",
+        "pupil",
+        "highlight",
+        "clean"
+      ]
+    },
+    "eye3": {
+      "id": "eye3",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "A medium-sized, almond-shaped eye with a clean, minimal outline and a single centered pupil. Subtle eyelid curve suggests a calm, neutral expression; fits well in simple/cartoon avatar styles. Designed for balanced, everyday looks rather than exaggerated emotion.",
+      "tags": [
+        "almond",
+        "medium",
+        "neutral",
+        "minimal",
+        "cartoon",
+        "open",
+        "single-pupil"
+      ]
+    },
+    "eye4": {
+      "id": "eye4",
+      "category": "eye",
+      "short_label": "Almond neutral eye",
+      "description": "A clean, medium-sized almond-shaped eye with a single solid pupil and minimal detailing. Neutral and versatile in expression, suitable for calm or attentive avatar looks in a stylized set.",
+      "tags": [
+        "almond",
+        "medium",
+        "neutral",
+        "stylized",
+        "solid-pupil",
+        "open"
+      ]
+    },
+    "eye5": {
+      "id": "eye5",
+      "category": "eye",
+      "short_label": "almond medium eye",
+      "description": "Medium-sized almond-shaped eye with a single rounded iris and a small specular highlight. A subtle upper eyelid line and minimal lash detail give a calm, neutral expression suitable for everyday avatars. Clean, stylized look that reads well at small sizes.",
+      "tags": [
+        "almond-shaped",
+        "medium",
+        "neutral",
+        "single-iris",
+        "small-highlight",
+        "minimal",
+        "stylized"
+      ]
+    },
+    "eye6": {
+      "id": "eye6",
+      "category": "eye",
+      "short_label": "almond neutral eyes",
+      "description": "Mid-sized, almond-shaped eyes with a clean, minimalist outline and modest eyelid crease. Pupils centered for a calm, attentive expression; suitable for neutral or mildly curious avatars. Simple styling makes it versatile across genders and ages.",
+      "tags": [
+        "almond",
+        "medium",
+        "neutral",
+        "attentive",
+        "minimal",
+        "versatile"
+      ]
+    },
+    "eye7": {
+      "id": "eye7",
+      "category": "eye",
+      "short_label": "Almond-shaped eye",
+      "description": "A stylized almond-shaped eye with a single clean eyelid line and a centered iris and pupil. Medium size with a neutral-to-confident expression and minimal detailing. Designed for clear readability at small sizes.",
+      "tags": [
+        "almond-shaped",
+        "medium",
+        "neutral",
+        "stylized",
+        "open",
+        "minimal"
+      ]
+    },
+    "eye8": {
+      "id": "eye8",
+      "category": "eye",
+      "short_label": "Almond-shaped neutral eye",
+      "description": "A stylized almond-shaped eye with a moderate-sized iris and a simple circular pupil. Clean, minimal eyelid lines with little or no eyelashes produce a calm, neutral expression suitable for many avatar styles.",
+      "tags": [
+        "almond",
+        "neutral",
+        "minimal",
+        "medium",
+        "clean",
+        "stylized",
+        "vector"
+      ]
+    },
+    "eye9": {
+      "id": "eye9",
+      "category": "eye",
+      "short_label": "Almond neutral eyes",
+      "description": "Simple almond-shaped eyes with modest pupils and a thin eyelid line, producing a calm, neutral expression. Minimal, flat vector styling that works as a versatile, everyday avatar eye option.",
+      "tags": [
+        "almond",
+        "neutral",
+        "calm",
+        "minimal",
+        "symmetrical",
+        "open"
+      ]
+    },
+    "female1": {
+      "id": "female1",
+      "category": "eye",
+      "short_label": "feminine almond eye",
+      "description": "Stylized feminine eye with a soft almond shape and prominent upper eyelashes. Medium-sized iris with a small highlight and a gentle eyelid crease, giving a friendly, polished appearance. Suitable for approachable or traditionally 'girly' avatar styles.",
+      "tags": [
+        "feminine",
+        "almond-shaped",
+        "long eyelashes",
+        "soft",
+        "friendly",
+        "stylized",
+        "polished"
+      ]
+    },
+    "female10": {
+      "id": "female10",
+      "category": "eye",
+      "short_label": "feminine almond eye",
+      "description": "Delicate, feminine almond-shaped eye with pronounced upper eyelashes and subtle eyeliner. Slightly larger with a soft curve and a gentle, friendly expression, suited for feminine or made-up avatar styles.",
+      "tags": [
+        "feminine",
+        "almond",
+        "long-lashes",
+        "eyeliner",
+        "soft",
+        "friendly",
+        "stylized"
+      ]
+    },
+    "female11": {
+      "id": "female11",
+      "category": "eye",
+      "short_label": "feminine lash-lined eyes",
+      "description": "Stylized feminine eyes featuring pronounced upper lashes and a subtle eyeliner look; almond-shaped and slightly elongated for an expressive, soft gaze. Likely shows larger irises and a small highlight to convey warmth and approachability.",
+      "tags": [
+        "feminine",
+        "lash-heavy",
+        "almond-shaped",
+        "expressive",
+        "soft",
+        "warm"
+      ]
+    },
+    "female12": {
+      "id": "female12",
+      "category": "eye",
+      "short_label": "Feminine almond eyes",
+      "description": "Almond-shaped eyes with pronounced upper lashes and a subtle eyeliner accent that reads as feminine and expressive. Irises are slightly enlarged for a soft, approachable look; overall stylized and clean for avatar use.",
+      "tags": [
+        "almond",
+        "long-lashes",
+        "eyeliner",
+        "large-iris",
+        "expressive",
+        "soft",
+        "female"
+      ]
+    },
+    "female13": {
+      "id": "female13",
+      "category": "eye",
+      "short_label": "Feminine almond eye",
+      "description": "Slightly almond-shaped feminine eye with pronounced upper eyelashes and a gentle eyelid crease, giving a soft and approachable look. Clean, stylized linework with subtle eyeliner or shadow suggested to imply light makeup; good for neutral or friendly female avatars.",
+      "tags": [
+        "feminine",
+        "almond",
+        "long-lashes",
+        "soft",
+        "approachable",
+        "subtle-makeup"
+      ]
+    },
+    "female14": {
+      "id": "female14",
+      "category": "eye",
+      "short_label": "Feminine almond eyes",
+      "description": "Stylized feminine eyes with an almond shape, emphasized upper eyelashes and subtle eyeliner. Irises are slightly larger for a soft, youthful and friendly expression suitable for feminine avatar variants.",
+      "tags": [
+        "almond",
+        "long-lashes",
+        "subtle-eyeliner",
+        "soft",
+        "friendly",
+        "stylized"
+      ]
+    },
+    "female15": {
+      "id": "female15",
+      "category": "eye",
+      "short_label": "Feminine almond eyes",
+      "description": "Stylized feminine eyes with an almond shape, prominent upper eyelashes and subtle eyeliner. Slightly larger and open with soft eyelids and a gentle upward tilt, conveying a warm or elegant expression.",
+      "tags": [
+        "feminine",
+        "almond-shaped",
+        "long-eyelashes",
+        "soft-eyelids",
+        "open",
+        "elegant",
+        "warm"
+      ]
+    },
+    "female16": {
+      "id": "female16",
+      "category": "eye",
+      "short_label": "feminine almond eyes",
+      "description": "Stylized feminine eyes with a soft almond shape, prominent upper eyelashes and a gently curved eyelid that conveys a warm, approachable expression. Minimal lower lashes and a subtle iris highlight keep the look clean and slightly glamorous, suitable for female or soft, friendly characters.",
+      "tags": [
+        "feminine",
+        "almond",
+        "long-lashes",
+        "soft",
+        "friendly",
+        "stylized"
+      ]
+    },
+    "female2": {
+      "id": "female2",
+      "category": "eye",
+      "short_label": "Feminine almond eyes",
+      "description": "Almond-shaped eyes with slightly enlarged irises and pronounced upper lashes to convey a feminine, soft expression. Curved lids and a subtle highlight give a friendly, stylized appearance suitable for female avatars.",
+      "tags": [
+        "feminine",
+        "almond-shaped",
+        "long-lashes",
+        "soft",
+        "expressive",
+        "stylized"
+      ]
+    },
+    "female3": {
+      "id": "female3",
+      "category": "eye",
+      "short_label": "Feminine lashes, almond",
+      "description": "Delicate, slightly almond-shaped eye with prominent upper eyelashes and subtle eyeliner, producing a traditionally feminine look. The iris is medium-large and centered for an open, expressive, friendly appearance.",
+      "tags": [
+        "feminine",
+        "long-lashes",
+        "almond",
+        "soft",
+        "open",
+        "expressive"
+      ]
+    },
+    "female4": {
+      "id": "female4",
+      "category": "eye",
+      "short_label": "feminine almond eyes",
+      "description": "Slightly larger almond-shaped eyes with prominent upper eyelashes and a subtle eyeliner-like stroke; irises are clearly defined to convey a gentle, open look. Overall styling reads as feminine and approachable, suitable for avatars with soft or makeup-enhanced features.",
+      "tags": [
+        "almond",
+        "long-lashes",
+        "feminine",
+        "open",
+        "soft",
+        "makeup"
+      ]
+    },
+    "female5": {
+      "id": "female5",
+      "category": "eye",
+      "short_label": "Feminine almond eye",
+      "description": "Stylized feminine eye with an almond shape and emphasized upper lashes. Likely includes subtle eyeliner or shadow and a gentle, approachable expression suited for female or soft avatars.",
+      "tags": [
+        "feminine",
+        "almond",
+        "long-lashes",
+        "soft",
+        "made-up",
+        "friendly"
+      ]
+    },
+    "female6": {
+      "id": "female6",
+      "category": "eye",
+      "short_label": "feminine almond eyes",
+      "description": "Soft, almond-shaped eyes with pronounced upper eyelashes and a subtle eyeliner effect, designed to read as a feminine style. The gaze is gentle and relaxed, with medium-sized irises and a slightly uplifted outer corner for a pleasant expression.",
+      "tags": [
+        "feminine",
+        "almond-shaped",
+        "long-eyelashes",
+        "soft",
+        "gentle-expression",
+        "subtle-eyeliner"
+      ]
+    },
+    "female7": {
+      "id": "female7",
+      "category": "eye",
+      "short_label": "Feminine almond eye",
+      "description": "Almond-shaped eye variant with a soft, feminine styling. Features prominent curved upper eyelashes and subtle eyeliner, medium-sized with a slight upward tilt for a gentle, friendly expression.",
+      "tags": [
+        "almond",
+        "feminine",
+        "long-lashes",
+        "eyeliner",
+        "soft",
+        "friendly",
+        "medium-size"
+      ]
+    },
+    "female8": {
+      "id": "female8",
+      "category": "eye",
+      "short_label": "Feminine almond eyes",
+      "description": "Almond-shaped, slightly larger eyes with pronounced upper lashes and subtle eyeliner for a feminine look. Soft, curved eyelids and a gentle expression make this variant suited for made-up or stylish female avatars.",
+      "tags": [
+        "feminine",
+        "almond-shaped",
+        "long lashes",
+        "eyeliner",
+        "soft",
+        "expressive"
+      ]
+    },
+    "female9": {
+      "id": "female9",
+      "category": "eye",
+      "short_label": "feminine almond eyes",
+      "description": "Soft, feminine almond-shaped eyes with pronounced upper lashes and a subtle eyeliner sweep. Medium-sized irises and gentle curvature convey a warm, approachable expression suitable for elegant or casual female avatars.",
+      "tags": [
+        "almond-shaped",
+        "feminine",
+        "long-lashes",
+        "subtle-eyeliner",
+        "warm",
+        "stylized"
+      ]
+    }
+  },
+  "eyebrow": {
+    "eyebrow1": {
+      "id": "eyebrow1",
+      "category": "eyebrow",
+      "short_label": "Thin arched brow",
+      "description": "A simple, medium-thin eyebrow with a gentle arch and clean silhouette; balanced and neutral in expression. Designed as a generic, natural-looking brow that suits calm or default facial poses.",
+      "tags": [
+        "thin",
+        "arched",
+        "neutral",
+        "natural",
+        "symmetrical",
+        "minimal"
+      ]
+    },
+    "eyebrow10": {
+      "id": "eyebrow10",
+      "category": "eyebrow",
+      "short_label": "High arched thin brow",
+      "description": "A slim, high-arched eyebrow with a smooth taper toward the tail, giving a refined or mildly surprised expression. Clean, minimal stroke suited for elegant or alert-looking faces. Works well on characters needing subtle expressiveness without heavy brows.",
+      "tags": [
+        "thin",
+        "arched",
+        "tapered",
+        "elegant",
+        "alert",
+        "minimal"
+      ]
+    },
+    "eyebrow11": {
+      "id": "eyebrow11",
+      "category": "eyebrow",
+      "short_label": "arched medium eyebrows",
+      "description": "Clean, medium-thickness eyebrows with a defined arch and slightly tapered tails. The shape reads confident and alert, suitable for adult or stylized avatars.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "defined",
+        "confident",
+        "stylized"
+      ]
+    },
+    "eyebrow12": {
+      "id": "eyebrow12",
+      "category": "eyebrow",
+      "short_label": "arched expressive eyebrow",
+      "description": "A medium-thick, smoothly arched eyebrow with a slight upward tilt toward the outer end that conveys confidence or mild curiosity. Clean, modern vector shape designed for adult or teen avatars to add a polished, expressive look.",
+      "tags": [
+        "arched",
+        "medium-thick",
+        "tilted",
+        "expressive",
+        "confident",
+        "modern"
+      ]
+    },
+    "eyebrow13": {
+      "id": "eyebrow13",
+      "category": "eyebrow",
+      "short_label": "gentle arched brows",
+      "description": "Medium-thickness eyebrows with a soft, gentle arch and slightly tapered ends. Clean, smooth vector curves give a natural, neutral-to-confident expression suitable for many adult avatar styles.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "natural",
+        "neutral",
+        "confident"
+      ]
+    },
+    "eyebrow14": {
+      "id": "eyebrow14",
+      "category": "eyebrow",
+      "short_label": "Medium arched brows",
+      "description": "Clean medium-width eyebrows with a gentle arch and slightly tapered tails. Presents a neutral-to-friendly expression, versatile for many avatar styles. Works well as a balanced, natural-looking option for both genders.",
+      "tags": [
+        "medium",
+        "arched",
+        "tapered",
+        "natural",
+        "neutral",
+        "unisex"
+      ]
+    },
+    "eyebrow15": {
+      "id": "eyebrow15",
+      "category": "eyebrow",
+      "short_label": "arched tapered brows",
+      "description": "Slightly arched, medium-thickness eyebrows with tapered inner and outer ends that create a clean, natural silhouette. Conveys a neutral-to-confident expression suitable for many adult avatar styles.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "natural",
+        "clean",
+        "confident",
+        "neutral"
+      ]
+    },
+    "eyebrow16": {
+      "id": "eyebrow16",
+      "category": "eyebrow",
+      "short_label": "Medium arched eyebrow",
+      "description": "A medium-thickness eyebrow with a smooth, gentle arch and a slightly tapered tail. Designed to read as natural and neutral, suitable for relaxed or everyday expressions.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "natural",
+        "neutral",
+        "curved"
+      ]
+    },
+    "eyebrow17": {
+      "id": "eyebrow17",
+      "category": "eyebrow",
+      "short_label": "soft arched brows",
+      "description": "Medium-thickness eyebrows with a gentle, natural arch and slightly tapered tails. They convey a calm, approachable expression suitable for neutral or friendly avatars.",
+      "tags": [
+        "medium",
+        "arched",
+        "natural",
+        "tapered",
+        "approachable",
+        "neutral",
+        "calm"
+      ]
+    },
+    "eyebrow18": {
+      "id": "eyebrow18",
+      "category": "eyebrow",
+      "short_label": "Medium arched brows",
+      "description": "Medium-thickness eyebrows with a clear but soft arch and slightly tapered tails. Symmetrical and neatly shaped, they angle gently upward toward the outer edges, suggesting a calm, attentive or mildly confident expression.",
+      "tags": [
+        "medium",
+        "arched",
+        "tapered",
+        "symmetrical",
+        "clean",
+        "confident"
+      ]
+    },
+    "eyebrow19": {
+      "id": "eyebrow19",
+      "category": "eyebrow",
+      "short_label": "High arched brows",
+      "description": "Narrow, high-arched eyebrows with a pronounced peak that convey alertness or mild surprise. Thin, clean strokes with slightly tapered ends create a sharp, refined expression suitable for attentive or dramatic faces.",
+      "tags": [
+        "thin",
+        "arched",
+        "alert",
+        "angular",
+        "refined"
+      ]
+    },
+    "eyebrow2": {
+      "id": "eyebrow2",
+      "category": "eyebrow",
+      "short_label": "medium arched eyebrow",
+      "description": "A pair of medium-thickness eyebrows with a gentle, natural arch. Clean vector lines with slightly tapered inner and outer ends produce a neutral, friendly expression suitable for everyday avatars.",
+      "tags": [
+        "medium",
+        "arched",
+        "neutral",
+        "tapered",
+        "clean",
+        "friendly"
+      ]
+    },
+    "eyebrow20": {
+      "id": "eyebrow20",
+      "category": "eyebrow",
+      "short_label": "Medium arched tapered brow",
+      "description": "Slightly arched, medium-thickness eyebrow with a gentle taper toward the tail, giving a clean, polished silhouette. Balanced between stylized and natural, it conveys a neutral-to-confident expression and works for many face types.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "clean",
+        "natural",
+        "confident"
+      ]
+    },
+    "eyebrow3": {
+      "id": "eyebrow3",
+      "category": "eyebrow",
+      "short_label": "Medium arched brows",
+      "description": "Clean, medium-thickness eyebrows with a gentle arch and slightly tapered ends. The shape reads neutral to mildly alert, making it versatile for calm, attentive, or curious expressions.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "neutral",
+        "expressive"
+      ]
+    },
+    "eyebrow4": {
+      "id": "eyebrow4",
+      "category": "eyebrow",
+      "short_label": "arched tapered eyebrow",
+      "description": "A moderately thick eyebrow with a soft arch and tapered tail, creating a natural but expressive look. The shape suggests alertness or mild surprise without looking harsh.",
+      "tags": [
+        "arched",
+        "tapered",
+        "medium",
+        "natural",
+        "expressive",
+        "alert"
+      ]
+    },
+    "eyebrow5": {
+      "id": "eyebrow5",
+      "category": "eyebrow",
+      "short_label": "Medium arched brows",
+      "description": "Medium-thickness eyebrows with a gentle high arch and slightly tapered tails. Clean, semi-natural silhouette that conveys a mildly surprised or attentive expression, suitable for neutral to expressive avatars.",
+      "tags": [
+        "medium",
+        "arched",
+        "tapered",
+        "natural",
+        "expressive",
+        "neutral"
+      ]
+    },
+    "eyebrow6": {
+      "id": "eyebrow6",
+      "category": "eyebrow",
+      "short_label": "gentle arched brows",
+      "description": "A medium-thickness eyebrow with a soft, natural arch and slightly tapered ends. Designed for a neutral or confident expression, suitable for everyday or subtle expressive avatars.",
+      "tags": [
+        "medium",
+        "arched",
+        "tapered",
+        "natural",
+        "neutral",
+        "confident"
+      ]
+    },
+    "eyebrow7": {
+      "id": "eyebrow7",
+      "category": "eyebrow",
+      "short_label": "arched medium eyebrow",
+      "description": "A medium-thickness eyebrow with a noticeable arch and a slightly tapered tail, creating a confident or inquisitive expression. Clean, stylized shape suitable for neutral-to-expressive faces.",
+      "tags": [
+        "arched",
+        "medium",
+        "tapered",
+        "stylized",
+        "confident",
+        "natural"
+      ]
+    },
+    "eyebrow8": {
+      "id": "eyebrow8",
+      "category": "eyebrow",
+      "short_label": "sharp angled brows",
+      "description": "Medium-thin brows with a pronounced outer angle and a tapered inner end, creating a clean, slightly arched silhouette. The shape reads as alert or confident and works well for expressive, stylized faces.",
+      "tags": [
+        "arched",
+        "angled",
+        "medium",
+        "tapered",
+        "confident",
+        "stylized"
+      ]
+    },
+    "eyebrow9": {
+      "id": "eyebrow9",
+      "category": "eyebrow",
+      "short_label": "arched tapered brows",
+      "description": "Medium-thickness brows with a clean, pronounced arch and slightly tapered tails. The shape is slightly angular and stylized, giving an alert or curious expression that works well for attentive or surprised avatars.",
+      "tags": [
+        "medium-thick",
+        "arched",
+        "tapered",
+        "angular",
+        "clean",
+        "alert",
+        "curious"
+      ]
+    },
+    "female1": {
+      "id": "female1",
+      "category": "eyebrow",
+      "short_label": "Soft feminine arched brows",
+      "description": "Thin, softly arched eyebrows with a neatly groomed, feminine appearance. Slightly tapered ends and a gentle curve produce a neutral to friendly expression suitable for many avatar styles.",
+      "tags": [
+        "soft",
+        "arched",
+        "thin",
+        "groomed",
+        "feminine",
+        "neutral",
+        "tapered"
+      ]
+    },
+    "female10": {
+      "id": "female10",
+      "category": "eyebrow",
+      "short_label": "slim arched eyebrow",
+      "description": "A slim, well-groomed eyebrow with a pronounced but natural arch and a tapered tail, designed for a feminine look. Clean, smooth stroke suggests a polished, expressive appearance—slightly raised to convey openness or mild curiosity.",
+      "tags": [
+        "arched",
+        "thin",
+        "tapered",
+        "groomed",
+        "feminine",
+        "expressive"
+      ]
+    },
+    "female2": {
+      "id": "female2",
+      "category": "eyebrow",
+      "short_label": "Female soft arched brows",
+      "description": "Delicate, moderately thin eyebrows with a gentle arch and tapered ends, conveying a polished feminine look. Soft, smooth strokes rather than heavy or bushy texture make these brows suitable for neutral to friendly expressions.",
+      "tags": [
+        "thin",
+        "arched",
+        "tapered",
+        "feminine",
+        "polished",
+        "soft",
+        "neutral"
+      ]
+    },
+    "female3": {
+      "id": "female3",
+      "category": "eyebrow",
+      "short_label": "feminine arched brows",
+      "description": "Thin, softly arched eyebrows with a gentle taper toward the tail, suggesting a groomed feminine style. Neutral-to-friendly expression suitable for calm or approachable avatars.",
+      "tags": [
+        "arched",
+        "thin",
+        "tapered",
+        "groomed",
+        "feminine",
+        "soft",
+        "neutral"
+      ]
+    },
+    "female4": {
+      "id": "female4",
+      "category": "eyebrow",
+      "short_label": "Feminine soft arch",
+      "description": "Thin-to-medium brows with a gentle, well-defined arch and tapered tails, giving a neat, groomed look. Overall soft and polished, conveying a friendly, feminine expression.",
+      "tags": [
+        "arched",
+        "feminine",
+        "tapered",
+        "soft",
+        "groomed",
+        "medium"
+      ]
+    },
+    "female5": {
+      "id": "female5",
+      "category": "eyebrow",
+      "short_label": "arched feminine brows",
+      "description": "Neat, medium-thin eyebrows with a gentle arch and tapered tails, styled to read as feminine and well-groomed. The subtle curve gives a calm, approachable expression suitable for everyday female avatars.",
+      "tags": [
+        "arched",
+        "tapered",
+        "thin",
+        "feminine",
+        "groomed",
+        "natural",
+        "calm"
+      ]
+    },
+    "female6": {
+      "id": "female6",
+      "category": "eyebrow",
+      "short_label": "Feminine arched brow",
+      "description": "Delicate, moderately arched eyebrows with a smooth, groomed curve and tapered tails. Thin-to-medium weight and a soft angle create a natural, feminine expression suited for neutral or slightly inquisitive faces.",
+      "tags": [
+        "arched",
+        "tapered",
+        "groomed",
+        "thin",
+        "feminine",
+        "natural",
+        "soft"
+      ]
+    },
+    "female7": {
+      "id": "female7",
+      "category": "eyebrow",
+      "short_label": "Soft arched eyebrow",
+      "description": "A feminine, softly arched eyebrow with a moderate thickness and gently tapered tail. Clean, natural curve that sits slightly above the eye to create a gentle, expressive look suitable for neutral or friendly expressions.",
+      "tags": [
+        "feminine",
+        "arched",
+        "tapered",
+        "medium-thickness",
+        "natural",
+        "soft"
+      ]
+    },
+    "female8": {
+      "id": "female8",
+      "category": "eyebrow",
+      "short_label": "Soft arched brows",
+      "description": "Delicate, slightly arched eyebrows with medium-thin strokes and tapered tails. The brows have softly rounded inner heads and a groomed, feminine appearance that gives a gentle, approachable expression.",
+      "tags": [
+        "arched",
+        "thin",
+        "tapered",
+        "groomed",
+        "female",
+        "soft",
+        "approachable"
+      ]
+    },
+    "female9": {
+      "id": "female9",
+      "category": "eyebrow",
+      "short_label": "Soft arched feminine eyebrow",
+      "description": "Delicate, medium-thin eyebrow with a gentle arch and tapered inner and outer tails. The shape is polished and natural-looking, giving a friendly, feminine expression suitable for groomed or neutral avatars.",
+      "tags": [
+        "arched",
+        "thin",
+        "groomed",
+        "feminine",
+        "natural",
+        "soft"
+      ]
+    }
+  },
+  "eyeLine": {
+    "line1": {
+      "id": "line1",
+      "category": "eyeLine",
+      "short_label": "minimal curved eye line",
+      "description": "A single, thin curved stroke representing a closed or resting eye. Minimalist and neutral in expression, suitable for calm or simplified avatar styles.",
+      "tags": [
+        "minimal",
+        "thin",
+        "curved",
+        "closed",
+        "neutral",
+        "subtle"
+      ]
+    },
+    "line2": {
+      "id": "line2",
+      "category": "eyeLine",
+      "short_label": "single curved line",
+      "description": "A minimal single-stroke eye rendered as a thin, slightly curved horizontal line, suggesting a relaxed or neutral closed eye. Suited for calm, stylized, or low-detail avatar expressions.",
+      "tags": [
+        "minimal",
+        "single-line",
+        "curved",
+        "closed",
+        "neutral",
+        "thin",
+        "relaxed"
+      ]
+    },
+    "line3": {
+      "id": "line3",
+      "category": "eyeLine",
+      "short_label": "Curved eyelid line",
+      "description": "A medium-thickness, gently curved upper-eyelid line with a subtle taper and small outward flick at the outer corner. Clean, stylized stroke that reads as a neutral to slightly alert eye shape, suitable for minimalist or cartoon avatars.",
+      "tags": [
+        "arched",
+        "medium-thick",
+        "tapered",
+        "subtle-flick",
+        "neutral",
+        "stylized"
+      ]
+    },
+    "line4": {
+      "id": "line4",
+      "category": "eyeLine",
+      "short_label": "arched minimalist eye",
+      "description": "A single smooth, slightly arched line forming the upper eye contour with tapered ends; suggests a relaxed or subtly smiling closed eye. Minimal, medium-thickness stroke suited for calm or friendly expressions and clean avatar styles.",
+      "tags": [
+        "arched",
+        "closed-eye",
+        "minimal",
+        "tapered-ends",
+        "friendly",
+        "medium-stroke"
+      ]
+    },
+    "line5": {
+      "id": "line5",
+      "category": "eyeLine",
+      "short_label": "arched eyelid line",
+      "description": "A clean, medium-thickness curved eyelid stroke with slightly tapered ends and a gentle arch. Conveys a calm or neutral expression and works well with simple, stylized irises. Minimal and versatile for many avatar styles.",
+      "tags": [
+        "curved",
+        "medium-thickness",
+        "tapered",
+        "arched",
+        "neutral",
+        "minimal"
+      ]
+    },
+    "line6": {
+      "id": "line6",
+      "category": "eyeLine",
+      "short_label": "Curved minimal eye line",
+      "description": "A single thin, slightly curved eye stroke with tapered ends that defines the upper eyelid. Minimalist and neutral in appearance, it suggests a calm or subtly closed eye look and works well for relaxed expressions or simple avatars.",
+      "tags": [
+        "thin",
+        "curved",
+        "minimal",
+        "neutral",
+        "relaxed",
+        "tapered"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "eyeLine",
+      "short_label": "No eye line",
+      "description": "No visible eye line or eyeliner; there is no drawn lash line or surrounding contour. Produces a minimalist, clean eye appearance that relies on pupil/eyeshape alone and suits flat, neutral, or soft avatar styles.",
+      "tags": [
+        "minimal",
+        "no-outline",
+        "clean",
+        "neutral",
+        "modern",
+        "subtle"
+      ]
+    }
+  },
+  "facialHair": {
+    "beard-point": {
+      "id": "beard-point",
+      "category": "facialHair",
+      "short_label": "Pointed chin beard",
+      "description": "A neatly trimmed beard that narrows and tapers to a sharp point at the chin, with cleaner cheeks and shorter side growth. The shape is angular and stylized, giving an edgy or sophisticated appearance often used for mature or fashion-forward avatars.",
+      "tags": [
+        "pointed",
+        "tapered",
+        "chin-focused",
+        "trimmed",
+        "angular",
+        "stylish"
+      ]
+    },
+    "beard1": {
+      "id": "beard1",
+      "category": "facialHair",
+      "short_label": "Short trimmed beard",
+      "description": "A neat, short full beard that follows the jawline and covers the chin with moderate thickness. Clean edges and a groomed look, likely connecting to a subtle mustache for a tidy, everyday style.",
+      "tags": [
+        "short",
+        "trimmed",
+        "full",
+        "jawline",
+        "neat",
+        "masculine"
+      ]
+    },
+    "beard2": {
+      "id": "beard2",
+      "category": "facialHair",
+      "short_label": "Trimmed short beard",
+      "description": "A neat, trimmed short full beard that connects to a matching mustache. Clean cheek lines with moderate coverage over the chin and jaw, giving a well-groomed, casual-professional appearance.",
+      "tags": [
+        "short",
+        "trimmed",
+        "full-beard",
+        "mustache-connected",
+        "neat",
+        "medium-coverage"
+      ]
+    },
+    "beard3": {
+      "id": "beard3",
+      "category": "facialHair",
+      "short_label": "Medium full beard",
+      "description": "A medium-length, full beard that covers the chin and jawline with a neatly trimmed silhouette and a connected mustache. Clean cheek and neckline edges give a groomed, approachable look suitable for everyday or professional avatars.",
+      "tags": [
+        "full",
+        "medium-length",
+        "trimmed",
+        "connected-mustache",
+        "jawline",
+        "groomed",
+        "neutral"
+      ]
+    },
+    "beard4": {
+      "id": "beard4",
+      "category": "facialHair",
+      "short_label": "medium full beard",
+      "description": "A neatly trimmed, medium-length full beard that connects to a modest mustache. The silhouette is slightly rounded with clean edges, projecting a tidy, mature look suitable for professional or casual avatars.",
+      "tags": [
+        "medium",
+        "full",
+        "trimmed",
+        "connected-mustache",
+        "rounded-edges",
+        "mature"
+      ]
+    },
+    "beard5": {
+      "id": "beard5",
+      "category": "facialHair",
+      "short_label": "medium full beard",
+      "description": "A medium-length, full beard that connects to a matching mustache and follows a softly rounded cheek and jawline. Styled as neatly trimmed rather than scruffy, giving a polished yet masculine appearance suitable for mature or fashionable avatars.",
+      "tags": [
+        "full",
+        "medium-length",
+        "trimmed",
+        "connected-mustache",
+        "rounded",
+        "thick"
+      ]
+    },
+    "beard6": {
+      "id": "beard6",
+      "category": "facialHair",
+      "short_label": "Medium trimmed beard",
+      "description": "A medium-length, full beard with clean, defined edges and a connected mustache. Neatly groomed and symmetrical, giving a polished, mature look.",
+      "tags": [
+        "medium-length",
+        "full",
+        "trimmed",
+        "connected-mustache",
+        "groomed",
+        "symmetrical"
+      ]
+    },
+    "chin-strap": {
+      "id": "chin-strap",
+      "category": "facialHair",
+      "short_label": "Chin-strap beard",
+      "description": "A thin, continuous band of hair that traces the jawline and connects under the chin, often linking to the sideburns. Cheeks and upper lip are usually clean-shaven, creating a sharp, minimalist frame that emphasizes the jaw's shape.",
+      "tags": [
+        "thin",
+        "jawline",
+        "connected",
+        "neat",
+        "minimal",
+        "modern"
+      ]
+    },
+    "chin-strapStache": {
+      "id": "chin-strapStache",
+      "category": "facialHair",
+      "short_label": "Chin-strap with mustache",
+      "description": "A thin chin-strap beard that traces the jawline and connects to a matching mustache above the lip. Clean, symmetrical and groomed styling with narrow lines that define the jaw without full cheek coverage.",
+      "tags": [
+        "chin-strap",
+        "mustache",
+        "thin",
+        "trimmed",
+        "jawline",
+        "symmetrical",
+        "modern"
+      ]
+    },
+    "fullgoatee": {
+      "id": "fullgoatee",
+      "category": "facialHair",
+      "short_label": "Full goatee",
+      "description": "Connected mustache and chin beard forming a continuous goatee that frames the mouth and chin. Neatly trimmed medium-thickness facial hair with little to no cheek coverage, giving a tidy, mature look.",
+      "tags": [
+        "goatee",
+        "connected",
+        "mustache",
+        "chin beard",
+        "trimmed",
+        "medium"
+      ]
+    },
+    "fullgoatee2": {
+      "id": "fullgoatee2",
+      "category": "facialHair",
+      "short_label": "Full goatee",
+      "description": "A full goatee that connects a defined chin beard to a matching mustache, trimmed to a moderate length with clean edges. Conveys a groomed, slightly rugged look suited for mature or stylish avatars.",
+      "tags": [
+        "goatee",
+        "connected mustache",
+        "chin beard",
+        "trimmed",
+        "medium-length",
+        "groomed",
+        "rugged"
+      ]
+    },
+    "fullgoatee3": {
+      "id": "fullgoatee3",
+      "category": "facialHair",
+      "short_label": "Trimmed full goatee",
+      "description": "A medium-length, trimmed full goatee with a connected moustache and chin beard that frames the mouth. Clean, well-defined edges and a compact silhouette convey a groomed, stylish look suitable for casual or professional avatars.",
+      "tags": [
+        "goatee",
+        "full",
+        "connected-mustache",
+        "trimmed",
+        "medium-length",
+        "neat"
+      ]
+    },
+    "fullgoatee4": {
+      "id": "fullgoatee4",
+      "category": "facialHair",
+      "short_label": "Trimmed full goatee",
+      "description": "A connected mustache and chin beard forming a full goatee, with medium-to-thick hair and clean, even edges. The overall look is neatly trimmed and groomed, conveying a mature, stylish appearance.",
+      "tags": [
+        "goatee",
+        "connected-mustache",
+        "trimmed",
+        "medium-thickness",
+        "groomed",
+        "mature"
+      ]
+    },
+    "fullgoatee5": {
+      "id": "fullgoatee5",
+      "category": "facialHair",
+      "short_label": "Trimmed full goatee",
+      "description": "A neat, trimmed full goatee with a connected mustache and solid chin coverage. Medium thickness and clean edges give a groomed, modern appearance that defines the mouth and jaw area.",
+      "tags": [
+        "full goatee",
+        "connected mustache",
+        "trimmed",
+        "medium",
+        "neat",
+        "modern"
+      ]
+    },
+    "fullgoatee6": {
+      "id": "fullgoatee6",
+      "category": "facialHair",
+      "short_label": "Full goatee",
+      "description": "A connected mustache and chin beard forming a full goatee that frames the mouth. Likely medium thickness with clean, defined edges for a neat, contemporary look that suits mature or stylish avatars.",
+      "tags": [
+        "full goatee",
+        "connected",
+        "medium",
+        "neat",
+        "stylish",
+        "mature"
+      ]
+    },
+    "goatee-thin": {
+      "id": "goatee-thin",
+      "category": "facialHair",
+      "short_label": "Thin goatee",
+      "description": "A narrow, neatly trimmed goatee focused on the chin with minimal side coverage; may include a thin connecting mustache or stand alone as a small tuft. Clean, sharp edges and restrained volume create a modern, subtle facial-hair look suited for refined or low-profile characters.",
+      "tags": [
+        "thin",
+        "goatee",
+        "chin",
+        "neat",
+        "trimmed",
+        "minimal",
+        "stylish"
+      ]
+    },
+    "goatee-thin-stache": {
+      "id": "goatee-thin-stache",
+      "category": "facialHair",
+      "short_label": "Thin mustache and goatee",
+      "description": "A narrow, neatly trimmed goatee on the chin paired with a fine, thin mustache above the lip. The overall effect is minimalist and groomed, conveying a refined or stylish look.",
+      "tags": [
+        "thin",
+        "goatee",
+        "mustache",
+        "trimmed",
+        "minimal",
+        "stylish"
+      ]
+    },
+    "goatee1": {
+      "id": "goatee1",
+      "category": "facialHair",
+      "short_label": "Classic goatee",
+      "description": "A small, neatly trimmed goatee focused on the chin, often paired with a narrow mustache or soul patch. Clean cheeks and jawline with no sideburns, giving a tidy, stylish appearance.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "chin",
+        "mustache",
+        "soul-patch",
+        "no-sideburns",
+        "neat"
+      ]
+    },
+    "goatee1-stache": {
+      "id": "goatee1-stache",
+      "category": "facialHair",
+      "short_label": "Goatee with mustache",
+      "description": "A neatly trimmed short goatee on the chin paired with a narrow mustache above the lip. Clean cheeks and defined edges give a modern, groomed appearance suitable for casual or formal avatars.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "trimmed",
+        "short",
+        "chin-focused",
+        "neat",
+        "stylish"
+      ]
+    },
+    "goatee10": {
+      "id": "goatee10",
+      "category": "facialHair",
+      "short_label": "pointed trimmed goatee",
+      "description": "A neat, medium-length pointed goatee with a thin, connected mustache and clean-shaven cheeks. Edges are sharply tapered for a groomed, stylish appearance suited to modern or mature avatars.",
+      "tags": [
+        "goatee",
+        "pointed",
+        "trimmed",
+        "mustache-connected",
+        "neat",
+        "stylish"
+      ]
+    },
+    "goatee11": {
+      "id": "goatee11",
+      "category": "facialHair",
+      "short_label": "pointed trimmed goatee",
+      "description": "A medium-length, pointed goatee focused on the chin with a clean, trimmed outline and moderate density. Likely includes a narrow or subtle connected mustache for a tidy, contemporary appearance.",
+      "tags": [
+        "goatee",
+        "chin-focused",
+        "trimmed",
+        "pointed",
+        "connected mustache",
+        "neat",
+        "medium-length"
+      ]
+    },
+    "goatee12": {
+      "id": "goatee12",
+      "category": "facialHair",
+      "short_label": "Trimmed pointed goatee",
+      "description": "A neat, medium-length pointed goatee centered on the chin with clean, tapered edges and defined shape. Likely trimmed and slightly stylized; may include a subtle mustache connection or appear as a standalone chin patch for a contemporary, well-groomed look.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "pointed",
+        "chin",
+        "medium-length",
+        "stylish",
+        "modern"
+      ]
+    },
+    "goatee15": {
+      "id": "goatee15",
+      "category": "facialHair",
+      "short_label": "trimmed pointed goatee",
+      "description": "A neat, medium-length goatee with a slightly tapered, pointed chin tuft and a subtly connected or shadowed mustache. Clean edges and moderate thickness give it a modern, groomed look suitable for stylish or mature characters. Works well for avatars aiming for refined or sophisticated facial hair.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "pointed",
+        "mustache-connected",
+        "neat",
+        "medium-length",
+        "stylish"
+      ]
+    },
+    "goatee16": {
+      "id": "goatee16",
+      "category": "facialHair",
+      "short_label": "Trimmed pointed goatee",
+      "description": "A neat, medium-length goatee focused on the chin, slightly tapered to a point and well-trimmed. Likely paired with a thin or subtle mustache, giving a clean but stylish look without full beard coverage.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "pointed",
+        "medium-length",
+        "connected-mustache",
+        "stylish"
+      ]
+    },
+    "goatee17": {
+      "id": "goatee17",
+      "category": "facialHair",
+      "short_label": "pointed trimmed goatee",
+      "description": "Medium-length, sharply trimmed goatee forming a pointed chin patch with clean-shaven cheeks; often paired with a narrow, connected mustache or soul patch for a neat, modern look. Edges are angular and sculpted, giving a stylized, slightly edgy appearance.",
+      "tags": [
+        "goatee",
+        "pointed",
+        "trimmed",
+        "medium",
+        "angular",
+        "connected-mustache",
+        "stylish"
+      ]
+    },
+    "goatee18": {
+      "id": "goatee18",
+      "category": "facialHair",
+      "short_label": "Trimmed pointed goatee",
+      "description": "A neat, tapered goatee with a narrow chin point and a subtly connected or matching thin mustache. Cheeks are clean-shaven for a groomed, modern appearance suitable for polished or stylish avatars.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "pointed",
+        "short",
+        "modern",
+        "clean-shaven"
+      ]
+    },
+    "goatee19": {
+      "id": "goatee19",
+      "category": "facialHair",
+      "short_label": "neat short goatee",
+      "description": "A compact, trimmed goatee centered on the chin, paired with a short, shaped mustache that may subtly connect to the chin patch. Clean edges and moderate thickness give a modern, well-groomed look suitable for adult or stylish avatars.",
+      "tags": [
+        "chin",
+        "trimmed",
+        "short",
+        "mustache",
+        "modern",
+        "neat",
+        "groomed"
+      ]
+    },
+    "goatee2": {
+      "id": "goatee2",
+      "category": "facialHair",
+      "short_label": "Neat tapered goatee",
+      "description": "A neatly trimmed chin beard forming a defined goatee, slightly tapered at the tip. Likely includes a slim connected mustache with clean-shaven cheeks for a tidy, modern appearance.",
+      "tags": [
+        "short",
+        "trimmed",
+        "chin",
+        "mustache",
+        "modern",
+        "neat"
+      ]
+    },
+    "goatee3": {
+      "id": "goatee3",
+      "category": "facialHair",
+      "short_label": "Classic goatee",
+      "description": "A moderate, neatly trimmed goatee focused on the chin, likely tapered into a subtle point. Cheeks are clean-shaven and it may include a connected moustache for a tidy, modern look suitable for mature or fashionable avatars.",
+      "tags": [
+        "goatee",
+        "trimmed",
+        "chin-focused",
+        "connected-mustache",
+        "clean-cheeks",
+        "moderate-size",
+        "stylish"
+      ]
+    },
+    "goatee4": {
+      "id": "goatee4",
+      "category": "facialHair",
+      "short_label": "Trimmed pointed goatee",
+      "description": "A medium-length, well-trimmed goatee that tapers to a subtle point on the chin and includes a neatly connected or slightly separated mustache. Clean edges and moderate density give a polished, stylish look suited for mature or fashionable avatars.",
+      "tags": [
+        "goatee",
+        "pointed",
+        "trimmed",
+        "mustache",
+        "chin",
+        "stylish",
+        "neat"
+      ]
+    },
+    "goatee4-stache": {
+      "id": "goatee4-stache",
+      "category": "facialHair",
+      "short_label": "trimmed goatee with mustache",
+      "description": "A medium, neatly trimmed goatee paired with a defined mustache. The chin beard is tapered and focused beneath the mouth while the mustache adds upper-lip definition, producing a balanced, stylish look suited to modern or slightly mature avatars.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "trimmed",
+        "medium",
+        "tapered",
+        "stylish"
+      ]
+    },
+    "goatee5": {
+      "id": "goatee5",
+      "category": "facialHair",
+      "short_label": "Short tapered goatee",
+      "description": "A neatly trimmed, chin-centered goatee with a slightly tapered, pointed shape. Cheeks and jaw are clean-shaven with no full mustache or heavy sideburns, giving a tidy, modern appearance.",
+      "tags": [
+        "chin",
+        "tapered",
+        "trimmed",
+        "short",
+        "pointed",
+        "neat",
+        "modern"
+      ]
+    },
+    "goatee6": {
+      "id": "goatee6",
+      "category": "facialHair",
+      "short_label": "Trimmed pointed goatee",
+      "description": "A neat, medium-thickness goatee focused on the chin with a slightly pointed shape. Clean cheeks suggest no full beard; may include a subtle connection to or hint of a thin mustache for a polished look.",
+      "tags": [
+        "trimmed",
+        "pointed",
+        "chin-only",
+        "medium",
+        "neat",
+        "stylized"
+      ]
+    },
+    "goatee7": {
+      "id": "goatee7",
+      "category": "facialHair",
+      "short_label": "tapered goatee",
+      "description": "A slim, tapered goatee concentrated on the chin with a slightly pointed tip and clean-shaven cheeks. Edges are neat and well-trimmed, with a subtle mustache connection for a modern, groomed appearance.",
+      "tags": [
+        "goatee",
+        "tapered",
+        "trimmed",
+        "pointed",
+        "chin",
+        "connected-mustache",
+        "modern"
+      ]
+    },
+    "goatee8": {
+      "id": "goatee8",
+      "category": "facialHair",
+      "short_label": "Tapered goatee",
+      "description": "Medium-length tapered goatee focused on the chin with a subtly connected mustache. Clean, groomed edges form a defined, slightly pointed silhouette for a contemporary, neat appearance.",
+      "tags": [
+        "goatee",
+        "tapered",
+        "connected mustache",
+        "neat",
+        "pointed",
+        "medium-length"
+      ]
+    },
+    "goatee9": {
+      "id": "goatee9",
+      "category": "facialHair",
+      "short_label": "trimmed pointed goatee",
+      "description": "A neat, medium-small goatee concentrated on the chin and shaped into a subtle point, with closely trimmed edges. Cheeks and sideburns are clean-shaven, giving a groomed, slightly edgy appearance.",
+      "tags": [
+        "pointed",
+        "trimmed",
+        "chin-focused",
+        "short",
+        "neat",
+        "stylish"
+      ]
+    },
+    "harley1": {
+      "id": "harley1",
+      "category": "facialHair",
+      "short_label": "biker short beard",
+      "description": "Rugged, biker-inspired short full beard with a connected mustache and slightly tapered jawline. Stubbly texture and trimmed edges convey a casual, tough or rebellious look suited for masculine avatars.",
+      "tags": [
+        "biker",
+        "short beard",
+        "mustache",
+        "stubbly",
+        "rugged",
+        "trimmed"
+      ]
+    },
+    "harley1-sb-1": {
+      "id": "harley1-sb-1",
+      "category": "facialHair",
+      "short_label": "short scruffy stubble",
+      "description": "Low-profile, scruffy stubble concentrated along the jawline and chin with a slightly uneven, textured look. Feels rugged and casual—suitable for biker or outdoorsy avatars that need a trimmed-but-rough facial hair style.",
+      "tags": [
+        "short",
+        "scruffy",
+        "stubble",
+        "trimmed",
+        "rugged",
+        "casual",
+        "masculine"
+      ]
+    },
+    "harley1-sb-2": {
+      "id": "harley1-sb-2",
+      "category": "facialHair",
+      "short_label": "Harley stubble beard",
+      "description": "A short, rugged stubble beard with a trimmed, connected mustache and defined short sideburns — a biker-inspired, low-maintenance style. Moderate density and clean edges give it a deliberate, masculine look suitable for tough or casual characters.",
+      "tags": [
+        "stubble",
+        "short",
+        "rugged",
+        "mustache",
+        "sideburns",
+        "trimmed"
+      ]
+    },
+    "harley2": {
+      "id": "harley2",
+      "category": "facialHair",
+      "short_label": "rugged biker beard",
+      "description": "Medium-length rugged beard with a connected mustache and slightly scruffy, uneven edges that suggest a biker or rebellious style. Bold, masculine silhouette that reads as casual and tough rather than neatly groomed.",
+      "tags": [
+        "full beard",
+        "connected mustache",
+        "scruffy",
+        "medium-length",
+        "rugged",
+        "edgy",
+        "biker"
+      ]
+    },
+    "harley2-sb-1": {
+      "id": "harley2-sb-1",
+      "category": "facialHair",
+      "short_label": "Harley stubble beard",
+      "description": "Short, coarse stubble forming a low beard with a slightly fuller chin and a connected, trimmed mustache for a rugged biker look. Edges are neat but textured, suggesting a purposely rough, masculine style.",
+      "tags": [
+        "stubble",
+        "short",
+        "rugged",
+        "mustache",
+        "chin",
+        "biker"
+      ]
+    },
+    "harley2-sb-2": {
+      "id": "harley2-sb-2",
+      "category": "facialHair",
+      "short_label": "short stubble goatee",
+      "description": "Short, trimmed stubble with a defined goatee and a thin mustache, likely with subtle sideburns. The style reads slightly edgy and casual, suited for contemporary or playful characters.",
+      "tags": [
+        "stubble",
+        "goatee",
+        "mustache",
+        "trimmed",
+        "edgy",
+        "casual",
+        "modern"
+      ]
+    },
+    "harly3": {
+      "id": "harly3",
+      "category": "facialHair",
+      "short_label": "Harly beard 3",
+      "description": "Mid-length, neatly trimmed beard with defined cheek lines and a tapered chin; a narrow, connected mustache blends smoothly into the beard. Overall silhouette feels slightly rugged and edgy, suitable for a casual or biker-inspired look.",
+      "tags": [
+        "mid-length",
+        "trimmed",
+        "connected mustache",
+        "tapered chin",
+        "defined edges",
+        "edgy"
+      ]
+    },
+    "harly3-sb-1": {
+      "id": "harly3-sb-1",
+      "category": "facialHair",
+      "short_label": "trimmed stubble beard",
+      "description": "Short, trimmed stubble concentrated on the jaw, chin, and upper lip with subtle sideburns. Moderate density and neat edges create a slightly rugged but well-groomed look suitable for modern, casual avatars.",
+      "tags": [
+        "short",
+        "stubble",
+        "trimmed",
+        "sideburns",
+        "neat",
+        "modern",
+        "casual"
+      ]
+    },
+    "harly3-sb-2": {
+      "id": "harly3-sb-2",
+      "category": "facialHair",
+      "short_label": "short stubble (trimmed)",
+      "description": "Short, evenly trimmed stubble across the chin and jawline with a subtle connected mustache and tidy sideburns. Overall neat and modern appearance with light-to-medium hair density and defined edges.",
+      "tags": [
+        "stubble",
+        "short",
+        "trimmed",
+        "connected-mustache",
+        "sideburns",
+        "neat",
+        "modern"
+      ]
+    },
+    "honest-abe": {
+      "id": "honest-abe",
+      "category": "facialHair",
+      "short_label": "Lincoln-style beard",
+      "description": "A full chin curtain beard with little or no mustache, trimmed close along the jaw and chin. Evokes a historic, dignified look with medium-length, even coverage focused on the lower face.",
+      "tags": [
+        "chin-curtain",
+        "no-mustache",
+        "historic",
+        "full",
+        "formal",
+        "medium-length"
+      ]
+    },
+    "honest-abe-stache": {
+      "id": "honest-abe-stache",
+      "category": "facialHair",
+      "short_label": "Abe-style mustache",
+      "description": "A narrow, neatly trimmed mustache centered under the nose with a straight horizontal profile and slightly tapered ends. Conveys a vintage, formal 19th-century look—clean, dignified, and understated.",
+      "tags": [
+        "narrow",
+        "short",
+        "vintage",
+        "symmetrical",
+        "trimmed",
+        "formal"
+      ]
+    },
+    "logan": {
+      "id": "logan",
+      "category": "facialHair",
+      "short_label": "Rugged mutton‑chops beard",
+      "description": "A bold, masculine facial hairstyle with heavy sideburns that flare into angular, shortened beard along the jaw; minimal or trimmed chin area gives a rugged, aggressive silhouette. Feels edgy and adventurous—suitable for a rough, heroic or outlaw look.",
+      "tags": [
+        "mutton-chops",
+        "sideburns",
+        "angular",
+        "rugged",
+        "masculine",
+        "short-to-medium",
+        "edgy"
+      ]
+    },
+    "loganGoatee2": {
+      "id": "loganGoatee2",
+      "category": "facialHair",
+      "short_label": "Rugged pointed goatee",
+      "description": "A medium-thickness, pointed goatee with a connected mustache and trimmed cheek lines, slightly scruffy rather than perfectly groomed. Conveys a rugged, mature look suitable for adventurous or stoic characters.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "pointed",
+        "medium",
+        "rugged",
+        "slightly scruffy",
+        "trimmed"
+      ]
+    },
+    "loganGoatee2Stache": {
+      "id": "loganGoatee2Stache",
+      "category": "facialHair",
+      "short_label": "Trimmed goatee + mustache",
+      "description": "A neat, medium-thickness goatee paired with a complementary moustache; the two are likely connected at the corners or closely aligned. Clean edges and a modern, groomed shape give it a stylish yet rugged appearance suitable for mature or confident characters.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "connected",
+        "trimmed",
+        "medium",
+        "stylish"
+      ]
+    },
+    "loganGoatee3": {
+      "id": "loganGoatee3",
+      "category": "facialHair",
+      "short_label": "Pointed goatee",
+      "description": "A neatly trimmed, medium-length goatee focused on the chin with a subtle, slim mustache; the beard tapers to a pointed tip and cleanly defined edges give a sharp, groomed appearance. Designed for a modern, confident look with cheeks left mostly bare.",
+      "tags": [
+        "goatee",
+        "pointed",
+        "trimmed",
+        "chin",
+        "mustache",
+        "neat",
+        "modern"
+      ]
+    },
+    "loganGoatee3soul": {
+      "id": "loganGoatee3soul",
+      "category": "facialHair",
+      "short_label": "Rugged goatee with soul patch",
+      "description": "A Logan-inspired medium-thickness goatee with a connected moustache and a small soul patch under the lower lip. Sharp, slightly angular edges and tidy trimming create a rugged, masculine, slightly edgy look.",
+      "tags": [
+        "goatee",
+        "soul-patch",
+        "connected-mustache",
+        "pointed",
+        "rugged",
+        "trimmed"
+      ]
+    },
+    "loganGoatee3soulStache": {
+      "id": "loganGoatee3soulStache",
+      "category": "facialHair",
+      "short_label": "Goatee with soul-stache",
+      "description": "A trimmed, pointed chin goatee paired with a narrow, neat mustache and a small soul patch beneath the lower lip. The style is tidy but slightly rugged, suited for edgy or mature avatars.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "soul-patch",
+        "trimmed",
+        "pointed",
+        "rugged",
+        "short"
+      ]
+    },
+    "loganSoul": {
+      "id": "loganSoul",
+      "category": "facialHair",
+      "short_label": "Logan-style goatee",
+      "description": "A trimmed, pointed goatee that connects to a narrow mustache with a small soul patch beneath the lower lip. Slightly scruffy edges give a rugged, masculine look while remaining neat and groomed. Works well for mature or rugged avatar styles.",
+      "tags": [
+        "goatee",
+        "mustache",
+        "soul-patch",
+        "pointed",
+        "short",
+        "rugged",
+        "trimmed"
+      ]
+    },
+    "mustache-thin": {
+      "id": "mustache-thin",
+      "category": "facialHair",
+      "short_label": "Thin mustache",
+      "description": "A narrow, closely trimmed mustache that hugs the area above the upper lip. Delicate and minimal-profile, it reads as a subtle, dapper or vintage style suited for understated or refined avatars.",
+      "tags": [
+        "thin",
+        "narrow",
+        "pencil",
+        "subtle",
+        "groomed",
+        "vintage",
+        "small"
+      ]
+    },
+    "mustache1": {
+      "id": "mustache1",
+      "category": "facialHair",
+      "short_label": "Classic small mustache",
+      "description": "A neat, compact mustache sitting on the upper lip with slight curvature at the ends. Clean-edged and groomed, it conveys a classic, understated look without connecting to a beard or sideburns.",
+      "tags": [
+        "small",
+        "neat",
+        "classic",
+        "curved",
+        "upper-lip",
+        "groomed"
+      ]
+    },
+    "mustache1SB1": {
+      "id": "mustache1SB1",
+      "category": "facialHair",
+      "short_label": "Classic small mustache",
+      "description": "A compact, neatly trimmed mustache sitting just above the upper lip with slightly tapered, symmetrical ends and clean edges. Low-profile and moderate density, giving a subtle, refined appearance suitable for understated or classic avatar styles.",
+      "tags": [
+        "compact",
+        "neat",
+        "trimmed",
+        "symmetrical",
+        "subtle",
+        "classic",
+        "short"
+      ]
+    },
+    "mustache1SB2": {
+      "id": "mustache1SB2",
+      "category": "facialHair",
+      "short_label": "Small handlebar mustache",
+      "description": "A compact, neatly trimmed mustache that sits just above the upper lip. Ends have a slight upward curl for a subtle handlebar effect; overall silhouette is low-bulk and stylized, suited to a groomed or retro look.",
+      "tags": [
+        "small",
+        "handlebar",
+        "groomed",
+        "stylized",
+        "trimmed",
+        "retro"
+      ]
+    },
+    "mutton": {
+      "id": "mutton",
+      "category": "facialHair",
+      "short_label": "Mutton chops",
+      "description": "Thick, wide sideburns that extend down the cheeks and often connect to a mustache while leaving the chin mostly clean. Retro and bold, it strongly frames the face and conveys a rugged, vintage style.",
+      "tags": [
+        "sideburns",
+        "thick",
+        "connected-to-mustache",
+        "clean-chin",
+        "retro",
+        "bold",
+        "rugged"
+      ]
+    },
+    "muttonGoatee1": {
+      "id": "muttonGoatee1",
+      "category": "facialHair",
+      "short_label": "Mutton chops with goatee",
+      "description": "Thick mutton-chop sideburns that extend and connect to a small goatee on the chin, forming a continuous jawline frame. Bold, rugged and slightly vintage in style, suitable for retro or assertive characters.",
+      "tags": [
+        "mutton-chops",
+        "goatee",
+        "connected",
+        "thick",
+        "rugged",
+        "vintage"
+      ]
+    },
+    "muttonGoatee1Stache": {
+      "id": "muttonGoatee1Stache",
+      "category": "facialHair",
+      "short_label": "Mutton chops, goatee, mustache",
+      "description": "Pronounced mutton-chop sideburns paired with a chin goatee and a visible mustache; the pieces may be connected or slightly separated. The overall effect is a rugged, vintage facial-hair style that frames the jaw and emphasizes the mouth and chin.",
+      "tags": [
+        "mutton chops",
+        "goatee",
+        "mustache",
+        "rugged",
+        "vintage",
+        "jaw-framing"
+      ]
+    },
+    "muttonGoatee2": {
+      "id": "muttonGoatee2",
+      "category": "facialHair",
+      "short_label": "Mutton-chop goatee",
+      "description": "Combines pronounced mutton-chop sideburns with a short goatee that connects at the jaw, creating a continuous frame around the lower face. Moderate thickness and clean edges give a classic, slightly rugged appearance suitable for vintage or bold character styles.",
+      "tags": [
+        "mutton-chops",
+        "goatee",
+        "connected",
+        "jaw-framing",
+        "medium-thickness",
+        "rugged"
+      ]
+    },
+    "muttonGoatee2Stache": {
+      "id": "muttonGoatee2Stache",
+      "category": "facialHair",
+      "short_label": "Mutton-goatee with mustache",
+      "description": "Wide mutton chops that blend into a trimmed chin goatee, paired with a prominent styled mustache. The sideburns connect to the beard for a bold, vintage/rugged silhouette suited to retro or assertive character looks.",
+      "tags": [
+        "mutton-chops",
+        "goatee",
+        "mustache",
+        "connected-sideburns",
+        "thick",
+        "rugged",
+        "vintage"
+      ]
+    },
+    "muttonGoatee5": {
+      "id": "muttonGoatee5",
+      "category": "facialHair",
+      "short_label": "mutton chops with goatee",
+      "description": "A hybrid style combining pronounced mutton chops along the jaw with a fuller goatee on the chin. Mid-length and fairly thick with trimmed edges, it reads as groomed but rugged—good for mature or bold characters.",
+      "tags": [
+        "mutton-chops",
+        "goatee",
+        "connected",
+        "thick",
+        "trimmed",
+        "rugged",
+        "mature"
+      ]
+    },
+    "muttonGoatee5Stache": {
+      "id": "muttonGoatee5Stache",
+      "category": "facialHair",
+      "short_label": "Mutton chops, goatee & mustache",
+      "description": "Thick mutton chops frame the cheeks and connect to a defined chin goatee, paired with a prominent mustache. The style reads vintage and rugged, with full sideburns linking facial hair into a continuous shape.",
+      "tags": [
+        "mutton-chops",
+        "goatee",
+        "mustache",
+        "connected",
+        "full",
+        "rugged",
+        "vintage"
+      ]
+    },
+    "muttonSoul": {
+      "id": "muttonSoul",
+      "category": "facialHair",
+      "short_label": "Mutton chops + soul patch",
+      "description": "Prominent mutton-chop sideburns paired with a small soul patch beneath the lower lip; may include a connected or slightly separated mustache. Bold, vintage-style facial hair that frames the jaw and gives a rugged, retro look.",
+      "tags": [
+        "mutton chops",
+        "soul patch",
+        "sideburns",
+        "retro",
+        "bold",
+        "framed jaw",
+        "vintage"
+      ]
+    },
+    "muttonStache": {
+      "id": "muttonStache",
+      "category": "facialHair",
+      "short_label": "Mutton chops with mustache",
+      "description": "Thick mutton chops that sweep down the cheeks and connect to a prominent mustache, creating a continuous facial frame. Bold, vintage and rugged style that suggests maturity or a retro/rebellious persona.",
+      "tags": [
+        "mutton-chops",
+        "mustache",
+        "connected",
+        "thick",
+        "vintage",
+        "bold"
+      ]
+    },
+    "muttonStacheSoul": {
+      "id": "muttonStacheSoul",
+      "category": "facialHair",
+      "short_label": "Mutton chops + mustache",
+      "description": "Thick, connected mutton chops with a full, curving mustache that together create a bold, vintage 'soul' look. Sideburns blend into the mustache to frame the jaw and provide a rounded, expressive silhouette.",
+      "tags": [
+        "mutton-chops",
+        "mustache",
+        "thick",
+        "connected",
+        "retro",
+        "bold"
+      ]
+    },
+    "neckbeard": {
+      "id": "neckbeard",
+      "category": "facialHair",
+      "short_label": "Neck beard",
+      "description": "Facial hair concentrated below the jawline and on the neck, often disconnected from the chin and upper lip. Appears short-to-medium length and slightly scruffy or patchy, giving an unkempt or deliberate low-maintenance look.",
+      "tags": [
+        "neck-only",
+        "scruffy",
+        "patchy",
+        "short",
+        "disconnected",
+        "informal",
+        "dense"
+      ]
+    },
+    "neckbeard2": {
+      "id": "neckbeard2",
+      "category": "facialHair",
+      "short_label": "Medium neckbeard",
+      "description": "A medium-length beard focused under the jaw and along the neck with minimal cheek coverage. Slightly scruffy texture that likely connects to the sideburns and gives a casual, unkempt look; may have little or no mustache.",
+      "tags": [
+        "neckbeard",
+        "medium-length",
+        "scruffy",
+        "neck-focused",
+        "connected-sideburns",
+        "casual",
+        "masculine"
+      ]
+    },
+    "neckbeard2SB1": {
+      "id": "neckbeard2SB1",
+      "category": "facialHair",
+      "short_label": "short neckbeard",
+      "description": "A short, low neckbeard concentrated below the jawline with a slightly scruffy, patchy texture. Upper cheeks and chin are mostly clear, giving a casual, unkempt look suitable for relaxed or rugged avatars.",
+      "tags": [
+        "neck",
+        "short",
+        "scruffy",
+        "patchy",
+        "casual",
+        "minimal"
+      ]
+    },
+    "neckbeard2SB2": {
+      "id": "neckbeard2SB2",
+      "category": "facialHair",
+      "short_label": "Medium scruffy neckbeard",
+      "description": "A medium-length neck-focused beard that sits mainly under the jaw and along the throat, with a slightly scruffy, patchy texture. Minimal connection to the mustache or chin area gives a casual, unkempt look suited for relaxed or rugged avatars.",
+      "tags": [
+        "neckbeard",
+        "scruffy",
+        "medium-length",
+        "neck-only",
+        "patchy",
+        "casual",
+        "unjkempt"
+      ]
+    },
+    "neckbeardSB1": {
+      "id": "neckbeardSB1",
+      "category": "facialHair",
+      "short_label": "Short neckbeard",
+      "description": "A beard focused below the jawline and on the neck with minimal cheek or mustache coverage. Short-to-medium length and slightly scruffy, giving a casual, low-maintenance look.",
+      "tags": [
+        "neckbeard",
+        "short",
+        "scruffy",
+        "under-jaw",
+        "patchy",
+        "casual",
+        "low-maintenance"
+      ]
+    },
+    "neckbeardSB2": {
+      "id": "neckbeardSB2",
+      "category": "facialHair",
+      "short_label": "Short neckbeard",
+      "description": "A compact neck-centered beard that sits mainly under the jawline. Appears short and slightly scruffy with a stubbly texture, likely disconnected from the mustache and chin for a casual, lived-in look.",
+      "tags": [
+        "neckbeard",
+        "short",
+        "scruffy",
+        "stubble",
+        "under-jaw",
+        "disconnected",
+        "casual"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "facialHair",
+      "short_label": "Clean shaven",
+      "description": "No facial hair — face is cleanly shaven with no mustache, beard, goatee, or pronounced sideburns. A neutral, versatile look that reads as youthful, professional, and minimalist.",
+      "tags": [
+        "clean-shaven",
+        "bare-chin",
+        "minimal",
+        "neutral",
+        "youthful",
+        "professional"
+      ]
+    },
+    "sideburns1": {
+      "id": "sideburns1",
+      "category": "facialHair",
+      "short_label": "Short trimmed sideburns",
+      "description": "Neat, short sideburns trimmed close to the face from the temple down toward the ear. Even width with a slightly rounded or straight lower edge, creating a low-profile, classic look that complements clean-cut avatars. Works well for formal or understated styles.",
+      "tags": [
+        "short",
+        "trimmed",
+        "classic",
+        "symmetrical",
+        "neat",
+        "low-profile"
+      ]
+    },
+    "sideburns2": {
+      "id": "sideburns2",
+      "category": "facialHair",
+      "short_label": "Tapered medium sideburns",
+      "description": "Medium-length, tapered sideburns that follow the cheek toward the jaw with clean, trimmed edges. Conveys a classic, well-groomed look suitable for both formal and casual avatars.",
+      "tags": [
+        "medium-length",
+        "tapered",
+        "neat",
+        "classic",
+        "well-groomed"
+      ]
+    },
+    "sideburns3": {
+      "id": "sideburns3",
+      "category": "facialHair",
+      "short_label": "Medium tapered sideburns",
+      "description": "Medium-length, slightly thick sideburns with a tapered, trimmed edge that reaches toward the jawline. Gives a classic, slightly rugged look suitable for traditional or casual avatar styles and pairs well with mustaches or short beards.",
+      "tags": [
+        "medium-length",
+        "tapered",
+        "trimmed",
+        "thick",
+        "classic",
+        "rugged"
+      ]
+    },
+    "soul": {
+      "id": "soul",
+      "category": "facialHair",
+      "short_label": "soul patch",
+      "description": "A small, neatly trimmed soul patch centered beneath the lower lip. Minimal and narrow in shape, it provides a subtle, stylish accent often associated with retro or hipster looks and can be used alone or paired with a thin mustache.",
+      "tags": [
+        "soul patch",
+        "small",
+        "trimmed",
+        "minimal",
+        "retro",
+        "stylish"
+      ]
+    },
+    "soul-stache": {
+      "id": "soul-stache",
+      "category": "facialHair",
+      "short_label": "Soul stache",
+      "description": "A slim, well-groomed pencil mustache centered above the upper lip, often paired with a tiny soul patch under the lower lip. Compact and tidy, it evokes a vintage soul/funk aesthetic and reads as stylish and deliberate rather than rugged.",
+      "tags": [
+        "thin",
+        "pencil",
+        "soul-patch",
+        "vintage",
+        "stylish",
+        "groomed",
+        "compact"
+      ]
+    },
+    "wilt": {
+      "id": "wilt",
+      "category": "facialHair",
+      "short_label": "wilted scruff",
+      "description": "Thin, patchy facial hair with a drooping, unkempt look. Sparse stubble and a few longer, wispy strands give a tired or deliberately casual appearance, primarily around the chin and jawline.",
+      "tags": [
+        "sparse",
+        "patchy",
+        "droopy",
+        "wispy",
+        "casual",
+        "unkempt"
+      ]
+    },
+    "wilt-sideburns-long": {
+      "id": "wilt-sideburns-long",
+      "category": "facialHair",
+      "short_label": "Long sideburns",
+      "description": "Prominent, elongated sideburns that extend down the cheeks, likely tapered and slightly wispy (the “wilt” hint). Provides strong face framing and a rugged or vintage appearance, pairing well with a clean or lightly stubbled chin.",
+      "tags": [
+        "long",
+        "sideburns",
+        "tapered",
+        "cheek-length",
+        "wispy",
+        "rugged",
+        "vintage"
+      ]
+    },
+    "wilt-sideburns-short": {
+      "id": "wilt-sideburns-short",
+      "category": "facialHair",
+      "short_label": "Short tapered sideburns",
+      "description": "Neatly trimmed, short sideburns that sit at the temples and stop above or at the jawline. Tapered edges give a subtle, groomed appearance suited to clean-cut or short hairstyles and understated facial styles.",
+      "tags": [
+        "short",
+        "tapered",
+        "neat",
+        "subtle",
+        "masculine",
+        "temples"
+      ]
+    }
+  },
+  "glasses": {
+    "facemask": {
+      "id": "facemask",
+      "category": "glasses",
+      "short_label": "Face mask",
+      "description": "A lower-face covering that sits across the nose and under the chin with visible ear loops or straps. Simple, flat or slightly contoured rectangular shape with minimal detailing, resembling a surgical or cloth mask that hides the mouth and lower facial features.",
+      "tags": [
+        "protective",
+        "covers-mouth",
+        "ear-loops",
+        "minimal",
+        "flat",
+        "surgical",
+        "cloth"
+      ]
+    },
+    "glasses1-primary": {
+      "id": "glasses1-primary",
+      "category": "glasses",
+      "short_label": "Rectangular primary frames",
+      "description": "Simple rectangular eyeglasses with medium-thickness rims rendered in the avatar's primary color. Clean, modern and unisex design that suits everyday or casual looks without strong stylistic flair.",
+      "tags": [
+        "rectangular",
+        "medium-thick",
+        "colored",
+        "modern",
+        "unisex",
+        "casual"
+      ]
+    },
+    "glasses1-secondary": {
+      "id": "glasses1-secondary",
+      "category": "glasses",
+      "short_label": "Thin classic frames",
+      "description": "Simple, understated eyeglass frames with thin lines and a balanced medium width. Rendered in the avatar's secondary color for a muted, casual accent that suits everyday or professional looks.",
+      "tags": [
+        "thin",
+        "classic",
+        "medium-width",
+        "secondary-color",
+        "casual",
+        "minimal"
+      ]
+    },
+    "glasses2-black": {
+      "id": "glasses2-black",
+      "category": "glasses",
+      "short_label": "Thick black frames",
+      "description": "Bold, thick black eyeglass frames with rectangular lenses and a prominent bridge. Clean, modern silhouette that reads as classic/unisex and gives a confident, slightly intellectual look.",
+      "tags": [
+        "black",
+        "thick-frame",
+        "rectangular",
+        "bold",
+        "modern",
+        "unisex"
+      ]
+    },
+    "glasses2-primary": {
+      "id": "glasses2-primary",
+      "category": "glasses",
+      "short_label": "Primary rectangular frames",
+      "description": "Full-rim, medium-thick rectangular glasses with slightly rounded corners, rendered in a solid primary color. Clean, modern style that reads as confident and professional, suitable for bold or everyday avatar looks.",
+      "tags": [
+        "rectangular",
+        "full-rim",
+        "medium-thick",
+        "primary-color",
+        "modern",
+        "confident",
+        "clean"
+      ]
+    },
+    "glasses2-secondary": {
+      "id": "glasses2-secondary",
+      "category": "glasses",
+      "short_label": "Glasses 2 (secondary)",
+      "description": "A clean, modern eyeglass variant using the avatar's secondary color palette for frames or accents. Likely a medium-width rectangular frame with slightly rounded corners and a thin-to-medium stroke, giving a casual, unisex look suitable for everyday or professional avatars.",
+      "tags": [
+        "medium",
+        "rectangular-rounded",
+        "colored-frames",
+        "modern",
+        "unisex",
+        "accent-color"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "glasses",
+      "short_label": "No glasses",
+      "description": "No eyewear is present, leaving the face unobstructed and accessory-free. Use for a clean, natural look or to emphasize facial features without frames.",
+      "tags": [
+        "none",
+        "no-glasses",
+        "clean",
+        "unobstructed",
+        "natural",
+        "accessory-free"
+      ]
+    }
+  },
+  "hair": {
+    "afro": {
+      "id": "afro",
+      "category": "hair",
+      "short_label": "Voluminous afro",
+      "description": "Dense, rounded mass of tight, textured curls forming a halo around the head. The silhouette is large and cloud-like with a soft, organic edge, conveying a natural, bold, retro-inspired look.",
+      "tags": [
+        "curly",
+        "voluminous",
+        "rounded",
+        "textured",
+        "natural",
+        "retro",
+        "bold"
+      ]
+    },
+    "afro2": {
+      "id": "afro2",
+      "category": "hair",
+      "short_label": "Rounded afro",
+      "description": "Dense, rounded afro silhouette with tight coils forming a full halo around the head. Mid-to-short length with even volume and a textured, natural look that reads bold and casual.",
+      "tags": [
+        "afro",
+        "curly",
+        "voluminous",
+        "rounded",
+        "textured",
+        "natural",
+        "bold"
+      ]
+    },
+    "bald": {
+      "id": "bald",
+      "category": "hair",
+      "short_label": "Bald head",
+      "description": "Completely hairless scalp with a smooth, rounded crown that leaves forehead and ears fully exposed. Minimalist, clean look that emphasizes facial features and suits mature or gender-neutral avatars.",
+      "tags": [
+        "bald",
+        "hairless",
+        "smooth",
+        "minimal",
+        "exposed-ears",
+        "clean",
+        "mature"
+      ]
+    },
+    "blowoutFade": {
+      "id": "blowoutFade",
+      "category": "hair",
+      "short_label": "Blowout with fade",
+      "description": "High-volume, rounded top with textured lift that gives a blown-out appearance, paired with closely tapered or skin-faded sides and back. Modern, clean-cut look that reads youthful and stylish, suitable for contemporary or sporty avatars.",
+      "tags": [
+        "voluminous",
+        "textured",
+        "fade",
+        "tapered sides",
+        "modern",
+        "stylish",
+        "youthful"
+      ]
+    },
+    "cornrows": {
+      "id": "cornrows",
+      "category": "hair",
+      "short_label": "Cornrow braids",
+      "description": "Close-to-scalp braided rows running back from the hairline, creating neat parallel lines across the head. Overall look is tight and tidy, often pulled back and revealing the shape of the scalp — a protective, culturally associated style.",
+      "tags": [
+        "braided",
+        "tight",
+        "neat",
+        "pulled-back",
+        "symmetrical",
+        "protective",
+        "scalp-exposed"
+      ]
+    },
+    "crop": {
+      "id": "crop",
+      "category": "hair",
+      "short_label": "Short textured crop",
+      "description": "A short, cropped haircut with closely trimmed sides and a slightly longer, textured top or fringe. Modern and low-profile, it reads as neat, sporty, and versatile for both male and female avatars.",
+      "tags": [
+        "short",
+        "textured",
+        "cropped",
+        "modern",
+        "neat",
+        "sporty",
+        "unisex"
+      ]
+    },
+    "crop-fade": {
+      "id": "crop-fade",
+      "category": "hair",
+      "short_label": "Crop fade haircut",
+      "description": "A very short hairstyle with closely shaved sides that gradually taper into a slightly longer, cropped top. The fade blends skin or near-skin sides into a neat, textured top for a clean, modern androgynous look.",
+      "tags": [
+        "short",
+        "faded-sides",
+        "tapered",
+        "textured-top",
+        "modern",
+        "androgynous"
+      ]
+    },
+    "crop-fade2": {
+      "id": "crop-fade2",
+      "category": "hair",
+      "short_label": "Cropped fade 2",
+      "description": "A modern, short cropped haircut with a pronounced fade along the sides and a slightly longer, textured top. Clean edges and a low-maintenance, barbered look that reads contemporary and neat.",
+      "tags": [
+        "short",
+        "fade",
+        "textured top",
+        "modern",
+        "clean",
+        "low-maintenance"
+      ]
+    },
+    "curly": {
+      "id": "curly",
+      "category": "hair",
+      "short_label": "Curly hair",
+      "description": "Dense, textured curls forming a rounded, voluminous silhouette. Individual ringlets or coil shapes imply bounce and movement, giving a lively, natural look suited for casual or playful avatars.",
+      "tags": [
+        "curly",
+        "voluminous",
+        "textured",
+        "bouncy",
+        "natural",
+        "playful"
+      ]
+    },
+    "curly2": {
+      "id": "curly2",
+      "category": "hair",
+      "short_label": "Medium curly hair",
+      "description": "Voluminous, medium-length hair made of defined ringlets or corkscrew curls. Rounded silhouette with textured layers that frame the face, giving a playful, casual look suitable for approachable avatars.",
+      "tags": [
+        "curly",
+        "voluminous",
+        "mid-length",
+        "textured",
+        "ringlets",
+        "framing",
+        "playful"
+      ]
+    },
+    "curly3": {
+      "id": "curly3",
+      "category": "hair",
+      "short_label": "Voluminous curly hair",
+      "description": "Medium-length, voluminous curls with defined ringlets and a textured silhouette that frames the face. Bouncy, natural style suited for casual or lively avatars.",
+      "tags": [
+        "curly",
+        "voluminous",
+        "medium-length",
+        "textured",
+        "bouncy",
+        "natural"
+      ]
+    },
+    "curlyFade1": {
+      "id": "curlyFade1",
+      "category": "hair",
+      "short_label": "Curly fade",
+      "description": "Textured curls concentrated on the crown with closely cropped, faded sides and back. Presents a modern, tidy silhouette—stylish and casual, emphasizing volume on top and clean lines around the temples.",
+      "tags": [
+        "curly",
+        "faded-sides",
+        "textured",
+        "short",
+        "modern",
+        "tapered",
+        "casual"
+      ]
+    },
+    "curlyFade2": {
+      "id": "curlyFade2",
+      "category": "hair",
+      "short_label": "Curly fade haircut",
+      "description": "Tight, textured curls concentrated on the crown with closely tapered or faded sides and back, producing a clean modern silhouette. Short-to-medium top length for a well-groomed, youthful look suited to trendy or casual avatars.",
+      "tags": [
+        "curly",
+        "fade",
+        "tapered",
+        "textured",
+        "short",
+        "modern",
+        "youthful"
+      ]
+    },
+    "dreads": {
+      "id": "dreads",
+      "category": "hair",
+      "short_label": "Dreadlocks",
+      "description": "Thick, rope-like twisted locks with a textured, segmented appearance, typically medium-to-long in length. Conveys an Afrocentric, natural look that can read as loose or styled back for a casual or expressive avatar.",
+      "tags": [
+        "dreadlocks",
+        "textured",
+        "long",
+        "thick",
+        "segmented",
+        "afrocentric",
+        "casual"
+      ]
+    },
+    "emo": {
+      "id": "emo",
+      "category": "hair",
+      "short_label": "emo style hair",
+      "description": "Asymmetrical, straight hair with long side-swept bangs that often cover one eye and choppy layered ends. Dark, high-contrast or streaked coloring and a slightly shaggy silhouette give an alternative, moody and edgy look.",
+      "tags": [
+        "side-swept bangs",
+        "asymmetrical",
+        "long",
+        "choppy layers",
+        "dark",
+        "emo",
+        "edgy"
+      ]
+    },
+    "faux-hawk": {
+      "id": "faux-hawk",
+      "category": "hair",
+      "short_label": "Faux-hawk",
+      "description": "A mohawk-like style with a central strip of longer hair styled upward or forward and closely cropped or shaved sides. Typically textured or spiky and tapered toward the back, giving an edgy, modern look without a full shave.",
+      "tags": [
+        "edgy",
+        "spiky",
+        "short-sides",
+        "center-ridge",
+        "textured",
+        "modern",
+        "youthful"
+      ]
+    },
+    "fauxhawk-fade": {
+      "id": "fauxhawk-fade",
+      "category": "hair",
+      "short_label": "Fauxhawk with fade",
+      "description": "A modern fauxhawk: a strip of longer, textured hair down the center styled upward or slightly spiked, with clean faded sides that taper toward the ears. The silhouette is edgy and sporty, giving a youthful, contemporary look.",
+      "tags": [
+        "fauxhawk",
+        "fade",
+        "textured",
+        "short-sides",
+        "edgy",
+        "modern",
+        "youthful"
+      ]
+    },
+    "female1": {
+      "id": "female1",
+      "category": "hair",
+      "short_label": "Female medium hairstyle",
+      "description": "A clean, feminine medium-length hairstyle with a subtle side part and gentle waves that frame the face. Simple, versatile silhouette suitable for casual or professional avatars.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "wavy",
+        "side-part",
+        "face-framing",
+        "versatile"
+      ]
+    },
+    "female10": {
+      "id": "female10",
+      "category": "hair",
+      "short_label": "Feminine medium waves",
+      "description": "A feminine, medium-length hairstyle with gentle waves that frame the face. It likely has a side part and soft, side-swept bangs for a polished, everyday look.",
+      "tags": [
+        "feminine",
+        "medium",
+        "wavy",
+        "side-part",
+        "soft-bangs",
+        "framing"
+      ]
+    },
+    "female11": {
+      "id": "female11",
+      "category": "hair",
+      "short_label": "Feminine wavy medium hair",
+      "description": "Stylized feminine hairstyle with medium-length, soft waves and a gentle side part. Smooth, flowing contours give an approachable, classic look suitable for casual or professional avatars.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "wavy",
+        "side-part",
+        "soft",
+        "flowing"
+      ]
+    },
+    "female12": {
+      "id": "female12",
+      "category": "hair",
+      "short_label": "Feminine wavy medium hair",
+      "description": "A feminine, medium-length hairstyle with soft waves and layered ends that gently frame the face. Likely features a subtle side part and a polished, approachable look suitable for casual or professional avatars.",
+      "tags": [
+        "medium-length",
+        "wavy",
+        "layered",
+        "side-part",
+        "feminine",
+        "face-framing",
+        "polished"
+      ]
+    },
+    "female2": {
+      "id": "female2",
+      "category": "hair",
+      "short_label": "Feminine medium-length hair",
+      "description": "Stylized feminine hairstyle with medium-length hair, a soft side part and gentle waves. Includes a subtle fringe and a smooth, rounded silhouette for a clean, approachable look suitable for adult female avatars.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "soft-waves",
+        "side-part",
+        "fringe",
+        "smooth",
+        "approachable"
+      ]
+    },
+    "female3": {
+      "id": "female3",
+      "category": "hair",
+      "short_label": "Female medium wavy hair",
+      "description": "A medium-length, feminine hairstyle with gentle waves and a soft side part. The silhouette is rounded and slightly layered for a natural, approachable look suitable for casual or professional avatars.",
+      "tags": [
+        "medium-length",
+        "wavy",
+        "side-part",
+        "feminine",
+        "layered",
+        "soft"
+      ]
+    },
+    "female4": {
+      "id": "female4",
+      "category": "hair",
+      "short_label": "Feminine medium waves",
+      "description": "A feminine, medium-length hairstyle with soft waves and a side part that frames the face. Clean, casual look suitable for everyday or professional avatars.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "wavy",
+        "side-part",
+        "soft",
+        "casual"
+      ]
+    },
+    "female5": {
+      "id": "female5",
+      "category": "hair",
+      "short_label": "Medium wavy female hair",
+      "description": "A medium-length feminine hairstyle with soft waves and layered ends, typically parted to the side. Clean, casual look suited for friendly or neutral avatars.",
+      "tags": [
+        "medium-length",
+        "wavy",
+        "layered",
+        "side-part",
+        "feminine",
+        "casual",
+        "soft"
+      ]
+    },
+    "female6": {
+      "id": "female6",
+      "category": "hair",
+      "short_label": "Feminine wavy hair",
+      "description": "Medium-length feminine hairstyle with soft, layered waves and a natural side part that frames the face. Casual-elegant look that adds gentle movement and softness to the avatar silhouette.",
+      "tags": [
+        "female",
+        "medium-length",
+        "wavy",
+        "side-part",
+        "layered",
+        "soft",
+        "framing"
+      ]
+    },
+    "female7": {
+      "id": "female7",
+      "category": "hair",
+      "short_label": "Mid-length wavy hair",
+      "description": "A stylized feminine hairstyle with mid-to-long length and soft waves. Features a gentle side part and light bangs or face-framing layers for a modern, approachable look.",
+      "tags": [
+        "feminine",
+        "mid-length",
+        "wavy",
+        "side-part",
+        "soft-bangs",
+        "layered"
+      ]
+    },
+    "female8": {
+      "id": "female8",
+      "category": "hair",
+      "short_label": "Female wavy hair",
+      "description": "A feminine, shoulder- to collar-length hairstyle with soft waves and a subtle side part. Ends are slightly layered for a gentle, modern look that suits casual and professional avatars.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "wavy",
+        "side-part",
+        "layered",
+        "casual"
+      ]
+    },
+    "female9": {
+      "id": "female9",
+      "category": "hair",
+      "short_label": "Female mid-length waves",
+      "description": "A feminine, mid-length hairstyle with soft waves and a subtle side part that frames the face. The style is slightly voluminous with flowing ends, giving a modern, approachable look suitable for casual or professional avatars.",
+      "tags": [
+        "wavy",
+        "mid-length",
+        "side-part",
+        "feminine",
+        "voluminous",
+        "soft"
+      ]
+    },
+    "hair": {
+      "id": "hair",
+      "category": "hair",
+      "short_label": "Basic neutral hairstyle",
+      "description": "A simple, generic hairstyle with a smooth, rounded silhouette and minimal texture. Medium length with a subtle side part, designed as a neutral default suitable for many avatar styles and genders.",
+      "tags": [
+        "neutral",
+        "medium-length",
+        "simple",
+        "smooth",
+        "default",
+        "versatile",
+        "unisex"
+      ]
+    },
+    "high": {
+      "id": "high",
+      "category": "hair",
+      "short_label": "high-volume top",
+      "description": "Tall, voluminous hairstyle concentrated at the crown or forehead area, suggesting a pompadour, quiff, or high bun. Sides are likely cleaner or reduced to emphasize the elevated silhouette, producing a bold, fashionable look.",
+      "tags": [
+        "voluminous",
+        "tall",
+        "pompadour-style",
+        "quiff",
+        "high-bun",
+        "stylish",
+        "bold"
+      ]
+    },
+    "juice": {
+      "id": "juice",
+      "category": "hair",
+      "short_label": "Juicy glossy hair",
+      "description": "A stylized, high-shine hairstyle with smooth, liquid-like strands and bold, blocky shapes that suggest wet or slicked texture. Feels playful and energetic, often with asymmetric or exaggerated volume and suitable for colorful, modern avatars.",
+      "tags": [
+        "stylized",
+        "glossy",
+        "liquid",
+        "bold",
+        "playful",
+        "vibrant",
+        "asymmetric"
+      ]
+    },
+    "longHair": {
+      "id": "longHair",
+      "category": "hair",
+      "short_label": "Long flowing hair",
+      "description": "Full-length hair that falls past the shoulders in a smooth, flowing silhouette and frames the face. The style is neutral and versatile—can read as straight or slightly wavy and suits relaxed or elegant looks.",
+      "tags": [
+        "long",
+        "flowing",
+        "face-framing",
+        "shoulder-length",
+        "versatile",
+        "neutral",
+        "elegant"
+      ]
+    },
+    "messy": {
+      "id": "messy",
+      "category": "hair",
+      "short_label": "Messy hair",
+      "description": "Tousled, unkempt hairstyle with uneven strands and soft volume; appears casually windblown or bed-headed. Conveys a relaxed, playful, or slightly rebellious look suitable for informal avatars.",
+      "tags": [
+        "tousled",
+        "unstructured",
+        "casual",
+        "voluminous",
+        "asymmetrical",
+        "playful"
+      ]
+    },
+    "messy-short": {
+      "id": "messy-short",
+      "category": "hair",
+      "short_label": "Messy short hair",
+      "description": "Short, tousled hairstyle with textured, uneven ends and a slightly asymmetric silhouette. Stray locks and volume on top create a casual, carefree look suitable for youthful or relaxed characters.",
+      "tags": [
+        "short",
+        "messy",
+        "textured",
+        "tousled",
+        "casual",
+        "asymmetric"
+      ]
+    },
+    "middle-part": {
+      "id": "middle-part",
+      "category": "hair",
+      "short_label": "Middle part",
+      "description": "Hair parted cleanly down the center with even sections falling to both sides. Smooth, symmetrical silhouette that reads as classic and versatile — works for polished, neutral, or casual avatar looks.",
+      "tags": [
+        "center-part",
+        "symmetrical",
+        "smooth",
+        "classic",
+        "versatile",
+        "even-length"
+      ]
+    },
+    "parted": {
+      "id": "parted",
+      "category": "hair",
+      "short_label": "Parted hair",
+      "description": "Neat hairstyle with a defined part (center or slight side) and hair falling evenly to each side. Smooth, medium-length strands create a classic, versatile look suited to both casual and formal avatars.",
+      "tags": [
+        "parted",
+        "center-part",
+        "side-part",
+        "symmetrical",
+        "medium-length",
+        "classic",
+        "neat",
+        "versatile"
+      ]
+    },
+    "shaggy1": {
+      "id": "shaggy1",
+      "category": "hair",
+      "short_label": "Shaggy layered cut",
+      "description": "Tousled, layered medium-length hairstyle with uneven, textured ends and a relaxed fringe; silhouette appears slightly messy and voluminous. Conveys a casual, youthful, and carefree look suitable for modern or informal avatars.",
+      "tags": [
+        "shaggy",
+        "layered",
+        "tousled",
+        "medium-length",
+        "fringe",
+        "casual",
+        "voluminous"
+      ]
+    },
+    "shaggy2": {
+      "id": "shaggy2",
+      "category": "hair",
+      "short_label": "Shaggy layered cut",
+      "description": "Tousled, medium-length hair with choppy layers and a slightly unkempt fringe creating a soft, voluminous silhouette. Conveys a casual, youthful look with visible texture and movement.",
+      "tags": [
+        "shaggy",
+        "layered",
+        "tousled",
+        "medium-length",
+        "casual",
+        "textured",
+        "voluminous"
+      ]
+    },
+    "short": {
+      "id": "short",
+      "category": "hair",
+      "short_label": "Short haircut",
+      "description": "A close-cropped, low-volume hairstyle with a simple, clean silhouette. Hair sits above the ears and at the nape with minimal length and subtle texture or a slight part for variation. Neutral, versatile look suitable for casual or professional avatars.",
+      "tags": [
+        "short",
+        "cropped",
+        "neat",
+        "low-volume",
+        "modern",
+        "unisex"
+      ]
+    },
+    "short-bald": {
+      "id": "short-bald",
+      "category": "hair",
+      "short_label": "Short bald",
+      "description": "A very short, closely-shaved or nearly bald head with minimal scalp hair visible, emphasizing a smooth head silhouette and possibly subtle stubble or shadow at the hairline. The style is clean and minimal, suitable for mature, sporty, or low-maintenance avatar looks.",
+      "tags": [
+        "bald",
+        "shaved",
+        "short",
+        "minimal",
+        "clean",
+        "mature"
+      ]
+    },
+    "short-fade": {
+      "id": "short-fade",
+      "category": "hair",
+      "short_label": "Short fade haircut",
+      "description": "A modern short haircut with very short, tapered sides that gradually blend into a slightly longer top; edges are clean and well-defined. Low texture and minimal volume give a neat, professional appearance suitable for contemporary avatars.",
+      "tags": [
+        "short",
+        "fade",
+        "tapered",
+        "modern",
+        "neat",
+        "clean",
+        "minimal"
+      ]
+    },
+    "short2": {
+      "id": "short2",
+      "category": "hair",
+      "short_label": "Short textured crop",
+      "description": "A short, close-cropped hairstyle with a slightly textured or layered top and clean, tapered sides. Minimal and modern-looking, it reads as neat and versatile — suitable for casual or professional avatars and typically unisex.",
+      "tags": [
+        "short",
+        "textured",
+        "tapered",
+        "neat",
+        "modern",
+        "unisex"
+      ]
+    },
+    "short3": {
+      "id": "short3",
+      "category": "hair",
+      "short_label": "Short cropped hair",
+      "description": "A short, cropped hairstyle with a close-to-head silhouette and subtle surface texture. Reads as modern and low-maintenance, with slightly tapered sides and a short top that may form a soft fringe or wave.",
+      "tags": [
+        "short",
+        "cropped",
+        "textured",
+        "tapered",
+        "modern",
+        "unisex"
+      ]
+    },
+    "shortBangs": {
+      "id": "shortBangs",
+      "category": "hair",
+      "short_label": "Short bangs",
+      "description": "Cropped hairstyle featuring a short frontal fringe that sits at or slightly above the eyebrows. Overall length is short and tidy, giving a modern, youthful appearance with either a blunt or lightly textured edge.",
+      "tags": [
+        "short",
+        "bangs",
+        "fringe",
+        "cropped",
+        "modern",
+        "youthful",
+        "neat"
+      ]
+    },
+    "spike": {
+      "id": "spike",
+      "category": "hair",
+      "short_label": "Spiky hair",
+      "description": "Distinctive short-to-medium hair made of pointed, upward-facing tufts creating a jagged silhouette. Feels energetic and edgy — suitable for punk, playful, or rebellious avatar styles with a bold, angular look.",
+      "tags": [
+        "spiky",
+        "angular",
+        "edgy",
+        "youthful",
+        "punk",
+        "dynamic"
+      ]
+    },
+    "spike2": {
+      "id": "spike2",
+      "category": "hair",
+      "short_label": "Short spiky hair",
+      "description": "Compact, angular spikes that point upward and outward in defined clumps; medium-short length with a sharp silhouette. Conveys an energetic, edgy or youthful style suited to punk or modern looks.",
+      "tags": [
+        "spiky",
+        "short",
+        "angular",
+        "edgy",
+        "textured",
+        "youthful"
+      ]
+    },
+    "spike3": {
+      "id": "spike3",
+      "category": "hair",
+      "short_label": "Short spiky hair",
+      "description": "Compact, short-to-medium hairstyle made of defined, upward-pointing spikes with a slightly tousled texture and sharp angular tips. Conveys an energetic, edgy or punk look suitable for bold or youthful avatars.",
+      "tags": [
+        "spiky",
+        "short",
+        "textured",
+        "edgy",
+        "punk",
+        "angular",
+        "youthful"
+      ]
+    },
+    "spike4": {
+      "id": "spike4",
+      "category": "hair",
+      "short_label": "Spiky short hair",
+      "description": "Stylized short hair composed of multiple pronounced upward-pointing spikes with sharp, angular edges; compact and graphic in silhouette. Conveys an energetic, slightly rebellious or punk vibe, likely asymmetric and bold in contrast.",
+      "tags": [
+        "spiky",
+        "short",
+        "angular",
+        "punk",
+        "energetic",
+        "asymmetrical",
+        "bold"
+      ]
+    },
+    "tall-fade": {
+      "id": "tall-fade",
+      "category": "hair",
+      "short_label": "Tall fade",
+      "description": "High, voluminous top with closely clipped sides that taper into a pronounced fade. Clean, modern silhouette with a textured or flat top, suited for contemporary, urban or masculine avatars.",
+      "tags": [
+        "high-top",
+        "taper-fade",
+        "textured",
+        "modern",
+        "clean",
+        "urban",
+        "masculine"
+      ]
+    }
+  },
+  "hairBg": {
+    "female1": {
+      "id": "female1",
+      "category": "hairBg",
+      "short_label": "soft oval blob",
+      "description": "A soft, rounded background shape intended for female avatars; typically a medium-sized oval or organic blob that sits behind the head. It uses smooth edges and a subtle flat or slightly gradient pastel color to gently frame hair and face without adding visual clutter.",
+      "tags": [
+        "soft",
+        "rounded",
+        "pastel",
+        "background-blob",
+        "subtle",
+        "framing",
+        "female"
+      ]
+    },
+    "female2": {
+      "id": "female2",
+      "category": "hairBg",
+      "short_label": "Female hair backdrop",
+      "description": "A feminine hair background silhouette that fills and frames the head area; likely medium-length with soft, rounded edges and subtle waves. Designed as a backdrop layer to give a gentle, natural hair shape behind the face without detailed strands or highlights.",
+      "tags": [
+        "feminine",
+        "medium-length",
+        "wavy",
+        "soft",
+        "rounded",
+        "backdrop",
+        "frames-face"
+      ]
+    },
+    "female3": {
+      "id": "female3",
+      "category": "hairBg",
+      "short_label": "Female hair backdrop",
+      "description": "A smooth, rounded backdrop that sits behind female hairstyles. It presents a soft, shoulder-length silhouette with gentle waves and curved edges to frame the head. Designed as a subtle color-fill layer to add volume and separation from the background.",
+      "tags": [
+        "feminine",
+        "rounded",
+        "shoulder-length",
+        "soft",
+        "silhouette",
+        "background",
+        "subtle"
+      ]
+    },
+    "female4": {
+      "id": "female4",
+      "category": "hairBg",
+      "short_label": "soft shoulder frame",
+      "description": "A rounded, shoulder-length hair background with gentle waves that softly frames the face. It reads as a feminine, neutral silhouette that pairs well with medium-length hairstyles and calm expressions. Intended as a subtle backdrop to add warmth and balance to the head area.",
+      "tags": [
+        "feminine",
+        "rounded",
+        "medium-length",
+        "wavy",
+        "framing",
+        "soft"
+      ]
+    },
+    "female5": {
+      "id": "female5",
+      "category": "hairBg",
+      "short_label": "Female hair bg 5",
+      "description": "A medium-length feminine hair background silhouette with soft, rounded volume and gentle waves. Likely depicts a subtle part and smooth layered contours designed to sit behind facial features and hair details. Suited for neutral, natural-looking female avatars.",
+      "tags": [
+        "female",
+        "medium-length",
+        "soft",
+        "wavy",
+        "layered",
+        "silhouette",
+        "neutral"
+      ]
+    },
+    "longHair": {
+      "id": "longHair",
+      "category": "hairBg",
+      "short_label": "Long hair background",
+      "description": "A back-layer silhouette of long hair that falls past the shoulders, providing full coverage behind the face. Smooth, slightly flowing locks with a neutral, versatile style that frames the head and works with many front-layer hairstyles.",
+      "tags": [
+        "long",
+        "flowing",
+        "background",
+        "silhouette",
+        "full-coverage",
+        "neutral"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "hairBg",
+      "short_label": "No hair background",
+      "description": "No hair background — the hair backdrop layer is omitted or transparent. Use for minimalist avatars or when composing custom backgrounds; it keeps the head and hair unframed and works with any hair or head style.",
+      "tags": [
+        "transparent",
+        "minimal",
+        "neutral",
+        "versatile",
+        "no-background"
+      ]
+    },
+    "shaggy": {
+      "id": "shaggy",
+      "category": "hairBg",
+      "short_label": "Shaggy hair background",
+      "description": "Full background hair shape with a tousled, layered silhouette and uneven edges. Textured strands and slightly ragged ends suggest medium-length, casually messy hair. Conveys a relaxed, informal look suitable as a base behind front hair elements.",
+      "tags": [
+        "shaggy",
+        "tousled",
+        "layered",
+        "medium-length",
+        "textured",
+        "casual",
+        "messy"
+      ]
+    }
+  },
+  "head": {
+    "female1": {
+      "id": "female1",
+      "category": "head",
+      "short_label": "Female head (style 1)",
+      "description": "Clean, stylized female head with a soft oval shape, subtle jawline, and gentle facial proportions. A neutral, friendly base with minimalist lines and a smooth silhouette intended for layering hair, eyes, and accessories.",
+      "tags": [
+        "female",
+        "oval",
+        "soft",
+        "neutral-expression",
+        "minimal",
+        "smooth",
+        "young-adult"
+      ]
+    },
+    "female2": {
+      "id": "female2",
+      "category": "head",
+      "short_label": "Female head (v2)",
+      "description": "A stylized female head with a soft, oval face and gentle facial proportions. Features are smooth and minimal—subtle jawline and chin with a neutral, approachable expression suitable for everyday avatars.",
+      "tags": [
+        "female",
+        "oval",
+        "soft",
+        "neutral",
+        "stylized",
+        "approachable"
+      ]
+    },
+    "female3": {
+      "id": "female3",
+      "category": "head",
+      "short_label": "Female head (v3)",
+      "description": "A stylized female head with a soft, oval silhouette, subtle cheek contours, and a gently tapered chin. Neutral, approachable expression designed to pair cleanly with many hairstyles and accessories.",
+      "tags": [
+        "female",
+        "oval",
+        "soft-jaw",
+        "neutral",
+        "stylized",
+        "versatile"
+      ]
+    },
+    "head1": {
+      "id": "head1",
+      "category": "head",
+      "short_label": "Basic oval head",
+      "description": "A simple, neutral head with a smooth oval silhouette and minimal detail. Balanced proportions make it a default canvas for adding hair, eyes, and other facial features.",
+      "tags": [
+        "oval",
+        "neutral",
+        "simple",
+        "minimal",
+        "default",
+        "balanced"
+      ]
+    },
+    "head10": {
+      "id": "head10",
+      "category": "head",
+      "short_label": "medium oval head",
+      "description": "A medium-length oval head with a gently defined jawline and smooth, unadorned contours. Clean, neutral shape intended for general-purpose avatars that pairs well with many haircuts and accessories.",
+      "tags": [
+        "oval",
+        "medium",
+        "subtle-jaw",
+        "neutral",
+        "smooth",
+        "versatile"
+      ]
+    },
+    "head11": {
+      "id": "head11",
+      "category": "head",
+      "short_label": "Oval head with jawline",
+      "description": "Medium oval head shape with a defined jawline and subtle chin prominence. Minimal facial detail and flat coloring with light shading, giving a neutral, versatile base for different hairstyles and accessories.",
+      "tags": [
+        "oval",
+        "defined jaw",
+        "neutral",
+        "minimal",
+        "subtle shading",
+        "versatile"
+      ]
+    },
+    "head12": {
+      "id": "head12",
+      "category": "head",
+      "short_label": "Oval head, defined jaw",
+      "description": "A medium oval head silhouette with a subtly pronounced jawline and gently tapered chin. Clean, minimal contours and moderate forehead height make it versatile for neutral, mature, or confident avatar styles.",
+      "tags": [
+        "oval",
+        "defined-jaw",
+        "tapered-chin",
+        "neutral",
+        "mature",
+        "versatile"
+      ]
+    },
+    "head13": {
+      "id": "head13",
+      "category": "head",
+      "short_label": "neutral oval head",
+      "description": "Simple, slightly oval head shape with a mild jawline and rounded chin. Minimal, flat-cartoon outline intended as a neutral, versatile base for different hairstyles and facial features.",
+      "tags": [
+        "oval",
+        "mild-jaw",
+        "rounded-chin",
+        "neutral",
+        "minimal",
+        "cartoon",
+        "versatile"
+      ]
+    },
+    "head14": {
+      "id": "head14",
+      "category": "head",
+      "short_label": "Elongated oval head",
+      "description": "Slightly elongated oval head shape with a modest, angular jawline and a subtle chin. Neutral, clean silhouette designed as a versatile adult base that pairs well with many hairstyles and facial features.",
+      "tags": [
+        "oval",
+        "angular jaw",
+        "subtle chin",
+        "neutral",
+        "adult",
+        "base shape"
+      ]
+    },
+    "head15": {
+      "id": "head15",
+      "category": "head",
+      "short_label": "Medium oval head base",
+      "description": "Simple medium-sized oval head with a gently defined jawline and smooth, minimal contours. Neutral and versatile, designed as a general adult head base that pairs well with many hairstyles and accessories.",
+      "tags": [
+        "oval",
+        "medium",
+        "neutral",
+        "clean",
+        "unisex",
+        "adult"
+      ]
+    },
+    "head16": {
+      "id": "head16",
+      "category": "head",
+      "short_label": "elongated oval head",
+      "description": "A slightly elongated oval head with a gentle chin and smooth, minimal contours. Clean, geometric styling makes it neutral and versatile, fitting a wide range of hair, eye, and mouth variants.",
+      "tags": [
+        "oval",
+        "elongated",
+        "gentle-chin",
+        "minimal",
+        "neutral",
+        "versatile"
+      ]
+    },
+    "head17": {
+      "id": "head17",
+      "category": "head",
+      "short_label": "medium oval head",
+      "description": "A medium-sized, slightly oval head with balanced proportions and a subtle jawline. Clean, minimal silhouette intended as a neutral base for adding facial features, hair, or accessories. Works for a gender-neutral, everyday avatar look.",
+      "tags": [
+        "oval",
+        "medium",
+        "neutral",
+        "minimal",
+        "balanced",
+        "gender-neutral"
+      ]
+    },
+    "head18": {
+      "id": "head18",
+      "category": "head",
+      "short_label": "elongated oval head",
+      "description": "Slightly elongated oval head with a soft, tapered jaw and narrow chin. Minimal detailing and smooth outline in a clean, flat style designed to pair well with many hair and facial feature variants.",
+      "tags": [
+        "oval",
+        "slim",
+        "soft-jaw",
+        "neutral",
+        "minimal"
+      ]
+    },
+    "head2": {
+      "id": "head2",
+      "category": "head",
+      "short_label": "Oval neutral head",
+      "description": "A slightly oval head shape with balanced, moderate proportions and a gentle jawline. Clean, minimal internal detail and flat shading make it a neutral base intended for adding facial features, hair, or accessories.",
+      "tags": [
+        "oval",
+        "neutral",
+        "balanced",
+        "minimal",
+        "gentle-jaw",
+        "canvas"
+      ]
+    },
+    "head3": {
+      "id": "head3",
+      "category": "head",
+      "short_label": "Rounded oval head",
+      "description": "A simple rounded-oval head shape with a slightly tapered chin and moderate jaw definition. Minimal detail and flat shading make it a neutral base suitable for adding different hair, eyes, and accessories.",
+      "tags": [
+        "rounded",
+        "oval",
+        "tapered-chin",
+        "moderate-jaw",
+        "neutral",
+        "minimal",
+        "base"
+      ]
+    },
+    "head4": {
+      "id": "head4",
+      "category": "head",
+      "short_label": "Rounded head, slight jaw",
+      "description": "Medium rounded head shape with a subtly defined jawline and gentle chin. Clean, minimal silhouette intended as a neutral base that pairs well with a variety of hairstyles and facial features.",
+      "tags": [
+        "rounded",
+        "slight-jawline",
+        "neutral",
+        "medium",
+        "default",
+        "clean"
+      ]
+    },
+    "head5": {
+      "id": "head5",
+      "category": "head",
+      "short_label": "Medium tapered head",
+      "description": "A simple, medium-sized head outline with a slightly tapered jaw and balanced proportions. Clean, neutral silhouette intended to pair well with a variety of hairstyles and accessories.",
+      "tags": [
+        "medium",
+        "tapered-jaw",
+        "balanced",
+        "neutral",
+        "unisex",
+        "clean-outline"
+      ]
+    },
+    "head6": {
+      "id": "head6",
+      "category": "head",
+      "short_label": "Oval head with subtle jaw",
+      "description": "A mid-sized oval head shape with a gently defined jawline and modest chin. Smooth, minimal silhouette with unobtrusive ears, designed as a neutral, unisex base suitable for adding hair, glasses, or facial features.",
+      "tags": [
+        "oval",
+        "subtle-jaw",
+        "neutral",
+        "unisex",
+        "simple",
+        "clean"
+      ]
+    },
+    "head7": {
+      "id": "head7",
+      "category": "head",
+      "short_label": "rounded oval head",
+      "description": "A medium-sized, rounded oval head with a subtly defined jawline and a gentle chin. The outline is smooth and minimal, designed for neutral, versatile use across different avatar styles. Works well as a base for varied hair, facial features, and accessories.",
+      "tags": [
+        "oval",
+        "medium",
+        "subtle-jaw",
+        "neutral",
+        "clean",
+        "versatile"
+      ]
+    },
+    "head8": {
+      "id": "head8",
+      "category": "head",
+      "short_label": "Neutral oval head",
+      "description": "A simple, neutral oval head with a subtle jawline and balanced proportions, suited for a standard adult avatar. Clean contours and minimal detailing make it versatile for pairing with many hairstyles and accessories.",
+      "tags": [
+        "oval",
+        "subtle-jaw",
+        "neutral",
+        "medium",
+        "smooth",
+        "minimal",
+        "versatile"
+      ]
+    },
+    "head9": {
+      "id": "head9",
+      "category": "head",
+      "short_label": "elongated oval head",
+      "description": "Stylized, slightly elongated oval head with a narrower chin and subtle jaw definition. Simple, clean contours suited for adult or mature avatars and works well with a variety of hair and accessory styles.",
+      "tags": [
+        "oval",
+        "narrow-chin",
+        "adult",
+        "stylized",
+        "minimal",
+        "neutral"
+      ]
+    }
+  },
+  "jersey": {
+    "baseball": {
+      "id": "baseball",
+      "category": "jersey",
+      "short_label": "classic baseball jersey",
+      "description": "A sporty, button-up jersey with short sleeves and contrasting piping or sleeve stripes, evoking a team uniform. Clean, athletic silhouette designed for casual team or player looks.",
+      "tags": [
+        "sporty",
+        "button-up",
+        "short-sleeves",
+        "striped",
+        "athletic",
+        "team"
+      ]
+    },
+    "baseball2": {
+      "id": "baseball2",
+      "category": "jersey",
+      "short_label": "Classic baseball jersey",
+      "description": "A sporty, button-front baseball jersey with short sleeves and contrast trim along the placket and sleeve edges. Clean, team-oriented silhouette that suggests a chest logo or number and a light base color with darker piping for visual contrast.",
+      "tags": [
+        "button-front",
+        "short-sleeve",
+        "sporty",
+        "contrast-trim",
+        "team",
+        "athletic",
+        "numbered"
+      ]
+    },
+    "baseball3": {
+      "id": "baseball3",
+      "category": "jersey",
+      "short_label": "Baseball Jersey (v3)",
+      "description": "Classic baseball-style jersey with a button-up front and short sleeves in a relaxed athletic cut. Likely includes contrasting piping or trim on the collar and cuffs and a chest emblem or number; may show subtle paneling or pinstripe details for a sporty look.",
+      "tags": [
+        "sporty",
+        "button-up",
+        "short-sleeve",
+        "piping",
+        "logo",
+        "athletic",
+        "pinstripes"
+      ]
+    },
+    "baseball4": {
+      "id": "baseball4",
+      "category": "jersey",
+      "short_label": "Button-up baseball jersey",
+      "description": "Classic button-up baseball jersey with a relaxed, sporty silhouette. Short sleeves with contrasting trim or piping and a chest emblem or number give it a team-uniform look. Clean, casual style suited for athletic or streetwear avatars.",
+      "tags": [
+        "button-up",
+        "short-sleeves",
+        "sporty",
+        "contrast-trim",
+        "logo",
+        "piping"
+      ]
+    },
+    "football": {
+      "id": "football",
+      "category": "jersey",
+      "short_label": "Football jersey",
+      "description": "Sporty team jersey with an athletic cut—short sleeves, bold color blocks or stripes, and contrasting collar/cuff details. Often includes a printed number or badge to read as a uniform rather than casual wear.",
+      "tags": [
+        "sporty",
+        "short-sleeve",
+        "team",
+        "numbered",
+        "striped",
+        "athletic",
+        "collared"
+      ]
+    },
+    "football2": {
+      "id": "football2",
+      "category": "jersey",
+      "short_label": "Athletic football jersey",
+      "description": "A sporty American football–style jersey with a broad shoulder cut and short sleeves, likely showing bold color blocks, sleeve stripes, or a prominent team number. Designed to convey a competitive, team-oriented athletic look for sports avatars.",
+      "tags": [
+        "sport",
+        "american-football",
+        "striped",
+        "numbered",
+        "short-sleeve",
+        "bold",
+        "team"
+      ]
+    },
+    "football3": {
+      "id": "football3",
+      "category": "jersey",
+      "short_label": "Football jersey #3",
+      "description": "Athletic football jersey variant with a classic cut and bold team-style markings. Likely short sleeves with contrasting shoulder or chest stripes and a prominent number or emblem on the front, conveying a sporty, team-oriented look. Suited for active or athletic avatar styles.",
+      "tags": [
+        "sporty",
+        "short-sleeve",
+        "numbered",
+        "team",
+        "striped",
+        "athletic"
+      ]
+    },
+    "football4": {
+      "id": "football4",
+      "category": "jersey",
+      "short_label": "Football Jersey Variant 4",
+      "description": "A sporty team-style football jersey with a prominent front number and contrasting shoulder or sleeve panels. It has short sleeves, a simple V-neck or crew collar, and bold color-blocking that reads as a uniform/athletic look.",
+      "tags": [
+        "sporty",
+        "team",
+        "number",
+        "short-sleeves",
+        "contrasting-colors",
+        "v-neck"
+      ]
+    },
+    "football5": {
+      "id": "football5",
+      "category": "jersey",
+      "short_label": "Football jersey",
+      "description": "Sport-style football jersey with a fitted athletic cut, short sleeves, and contrasting panels or stripes that suggest team colors. Designed for a bold, energetic look suitable for team or sporty avatars.",
+      "tags": [
+        "sporty",
+        "athletic",
+        "short-sleeve",
+        "contrasting-panels",
+        "team",
+        "bold",
+        "casual"
+      ]
+    },
+    "hockey": {
+      "id": "hockey",
+      "category": "jersey",
+      "short_label": "Hockey jersey",
+      "description": "Classic hockey-style jersey with a loose, long-sleeved athletic cut, often shown with bold horizontal or sleeve stripes and a central team logo or number. Conveys a sporty, team-oriented look with strong contrast and a ribbed or V-style collar detail.",
+      "tags": [
+        "long-sleeved",
+        "striped",
+        "sporty",
+        "team",
+        "bold",
+        "v-neck"
+      ]
+    },
+    "hockey2": {
+      "id": "hockey2",
+      "category": "jersey",
+      "short_label": "Hockey jersey",
+      "description": "Sporty, long-sleeve hockey jersey with a bold, team-oriented design—likely featuring horizontal chest stripes or a contrasting yoke and a wider athletic collar. The silhouette is boxy and slightly padded, conveying a layered, on-ice uniform look for athletic or team characters.",
+      "tags": [
+        "hockey",
+        "sport",
+        "long-sleeve",
+        "striped",
+        "team",
+        "athletic",
+        "bold"
+      ]
+    },
+    "hockey3": {
+      "id": "hockey3",
+      "category": "jersey",
+      "short_label": "Hockey jersey",
+      "description": "A sporty ice-hockey style jersey with a loose athletic cut and long sleeves, likely showing broad horizontal stripes across the chest and sleeves. It implies a prominent front team logo or number and a reinforced, slightly padded collar for a rugged, team-oriented look.",
+      "tags": [
+        "hockey",
+        "striped",
+        "long-sleeve",
+        "athletic",
+        "team-logo",
+        "padded-collar"
+      ]
+    },
+    "hockey4": {
+      "id": "hockey4",
+      "category": "jersey",
+      "short_label": "Striped hockey jersey",
+      "description": "A classic hockey-style long-sleeve jersey with a boxy, athletic cut and bold horizontal stripes across the chest and sleeves. Likely includes a shallow V or rounded sports neckline and space for a prominent team number or crest on the front, producing a strong, sporty silhouette.",
+      "tags": [
+        "hockey",
+        "long-sleeve",
+        "striped",
+        "athletic",
+        "boxy",
+        "team-number",
+        "sporty"
+      ]
+    },
+    "jersey": {
+      "id": "jersey",
+      "category": "jersey",
+      "short_label": "Classic jersey top",
+      "description": "A simple, flat-colored short-sleeve sports shirt with a crew neckline and minimal detailing. Clean, block-color design intended as a neutral base for team colors, numbers, or logos.",
+      "tags": [
+        "sporty",
+        "short-sleeve",
+        "crew-neck",
+        "minimal",
+        "flat-color",
+        "casual"
+      ]
+    },
+    "jersey2": {
+      "id": "jersey2",
+      "category": "jersey",
+      "short_label": "Sporty short-sleeve jersey",
+      "description": "A medium-fit, short-sleeve sports jersey with a clean, modern silhouette; likely a crew or slight V neck and simple two-tone or chest stripe detailing. Minimal seams and an unobtrusive area for a number or crest make it suitable for athletic or casual avatar looks.",
+      "tags": [
+        "sporty",
+        "short-sleeve",
+        "crew-neck",
+        "two-tone",
+        "minimal",
+        "fitted",
+        "casual"
+      ]
+    },
+    "jersey3": {
+      "id": "jersey3",
+      "category": "jersey",
+      "short_label": "short-sleeve sports jersey",
+      "description": "A clean, short-sleeve sports jersey with a crew (rounded) neckline and simple two-tone paneling across the chest and shoulders. Subtle piping or seam lines give a classic athletic, team-ready look without heavy logos or embellishment.",
+      "tags": [
+        "short-sleeve",
+        "crew-neck",
+        "two-tone",
+        "sporty",
+        "minimal",
+        "piping",
+        "unisex"
+      ]
+    },
+    "jersey4": {
+      "id": "jersey4",
+      "category": "jersey",
+      "short_label": "Athletic short-sleeve jersey",
+      "description": "A sporty, short-sleeve jersey with a clean, blocky silhouette and simple chest/shoulder paneling or stripe accents. Flat colors and minimal detailing give it a team-oriented, casual athletic look suitable for sports or active avatars.",
+      "tags": [
+        "sporty",
+        "short-sleeve",
+        "team",
+        "flat",
+        "minimal",
+        "casual",
+        "panel"
+      ]
+    },
+    "jersey5": {
+      "id": "jersey5",
+      "category": "jersey",
+      "short_label": "Sporty short-sleeve jersey",
+      "description": "A simple athletic jersey with short sleeves and a round (crew) neckline. The style emphasizes clean paneling and minimal detailing, making it suitable for casual sporty or team-themed avatars.",
+      "tags": [
+        "athletic",
+        "short-sleeve",
+        "crew-neck",
+        "minimal",
+        "sporty",
+        "casual",
+        "paneling"
+      ]
+    }
+  },
+  "miscLine": {
+    "blush": {
+      "id": "blush",
+      "category": "miscLine",
+      "short_label": "cheek blush",
+      "description": "Small, symmetric cheek marks or soft rounded strokes indicating flushed cheeks. Usually translucent or lightly colored, placed on either side of the face to imply shyness, warmth, or embarrassment in a minimal avatar style.",
+      "tags": [
+        "cheeks",
+        "rosy",
+        "symmetric",
+        "subtle",
+        "cute",
+        "shy"
+      ]
+    },
+    "chin1": {
+      "id": "chin1",
+      "category": "miscLine",
+      "short_label": "simple chin line",
+      "description": "A single thin curved stroke placed beneath the lower lip to suggest the chin and jawline. Minimal and neutral in style, with a smooth slightly convex arc that adds subtle facial definition.",
+      "tags": [
+        "thin",
+        "curved",
+        "minimal",
+        "chin",
+        "under-mouth",
+        "neutral",
+        "contour"
+      ]
+    },
+    "chin2": {
+      "id": "chin2",
+      "category": "miscLine",
+      "short_label": "subtle chin curve",
+      "description": "A thin, slightly curved line placed under the lower lip to define the chin and jawline. Feels like a soft shadow or small cleft accent — minimal and stylized for subtle facial definition.",
+      "tags": [
+        "chin",
+        "jawline",
+        "subtle",
+        "curved",
+        "thin",
+        "shadow"
+      ]
+    },
+    "forehead1": {
+      "id": "forehead1",
+      "category": "miscLine",
+      "short_label": "Single forehead line",
+      "description": "A thin, gently curved stroke placed across the forehead above the eyebrows, suggesting a subtle wrinkle or expression crease. Used as a small facial detail to imply age, concern, or emphasis on expression without dominating the face.",
+      "tags": [
+        "forehead",
+        "wrinkle",
+        "thin",
+        "curved",
+        "expression",
+        "detail"
+      ]
+    },
+    "forehead2": {
+      "id": "forehead2",
+      "category": "miscLine",
+      "short_label": "single forehead crease",
+      "description": "A thin, slightly curved horizontal line centered above the eyebrows indicating a subtle forehead crease. Suited for mild aging or surprised/concerned expressions, unobtrusive and minimal in style.",
+      "tags": [
+        "forehead",
+        "crease",
+        "wrinkle",
+        "horizontal",
+        "subtle",
+        "expression",
+        "age"
+      ]
+    },
+    "forehead3": {
+      "id": "forehead3",
+      "category": "miscLine",
+      "short_label": "Forehead lines 3",
+      "description": "A set of thin, slightly curved horizontal lines across the upper forehead suggesting mild wrinkles or expression creases. Subtle and low-contrast, meant to convey age, concern, or raised eyebrows without heavy detail.",
+      "tags": [
+        "forehead",
+        "wrinkle",
+        "horizontal",
+        "thin",
+        "subtle",
+        "expression"
+      ]
+    },
+    "forehead4": {
+      "id": "forehead4",
+      "category": "miscLine",
+      "short_label": "Forehead wrinkle line",
+      "description": "A thin, slightly curved horizontal line positioned on the forehead suggesting a single wrinkle or crease. Minimal and stylized, it adds subtle age or expression (worry/furrow) without heavy detail.",
+      "tags": [
+        "wrinkle",
+        "forehead",
+        "thin",
+        "horizontal",
+        "subtle",
+        "expressive"
+      ]
+    },
+    "forehead5": {
+      "id": "forehead5",
+      "category": "miscLine",
+      "short_label": "Forehead line 5",
+      "description": "A stylized forehead crease consisting of a medium-thin horizontal line (or short set of parallel strokes) arcing gently with the brow. Designed to suggest age, concern, or a furrowed expression while remaining minimal and easy to layer on avatars.",
+      "tags": [
+        "forehead",
+        "crease",
+        "horizontal",
+        "wrinkle",
+        "subtle",
+        "expression"
+      ]
+    },
+    "freckles1": {
+      "id": "freckles1",
+      "category": "miscLine",
+      "short_label": "Light scattered freckles",
+      "description": "Small, scattered freckle dots across the nose and upper cheeks, varying slightly in size. Simple, low-contrast dot marks meant to add a natural, youthful detail without dominating the face.",
+      "tags": [
+        "freckles",
+        "scattered",
+        "subtle",
+        "cheeks",
+        "nose",
+        "natural",
+        "youthful"
+      ]
+    },
+    "freckles2": {
+      "id": "freckles2",
+      "category": "miscLine",
+      "short_label": "Scattered freckles",
+      "description": "Small, irregular dot clusters scattered across the nose and upper cheeks with slight size variation to look natural. Medium-density, subtly symmetrical placement adds a youthful, whimsical accent without dominating the face.",
+      "tags": [
+        "freckles",
+        "dots",
+        "cheeks",
+        "natural",
+        "youthful",
+        "subtle",
+        "symmetrical"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "miscLine",
+      "short_label": "No misc line",
+      "description": "No decorative or guide line is rendered; this variant is intentionally blank or invisible. Use for minimalist avatars or when no extra overlay or accent line is desired.",
+      "tags": [
+        "none",
+        "transparent",
+        "minimal",
+        "invisible",
+        "clean",
+        "empty"
+      ]
+    }
+  },
+  "mouth": {
+    "angry": {
+      "id": "angry",
+      "category": "mouth",
+      "short_label": "Angry mouth",
+      "description": "A tense, downturned mouth conveying anger or irritation. Typically drawn with sharp, angular lines and either a tightly pressed lip line or visible bared teeth to emphasize intensity.",
+      "tags": [
+        "angry",
+        "downturned",
+        "tense",
+        "sharp",
+        "teeth",
+        "expression"
+      ]
+    },
+    "closed": {
+      "id": "closed",
+      "category": "mouth",
+      "short_label": "Closed neutral lips",
+      "description": "A simple closed-lip mouth without teeth visible, usually rendered as a single line or softly curved shape. Suited for neutral, calm, or restrained expressions and works as a default mouth for many avatar styles.",
+      "tags": [
+        "closed",
+        "neutral",
+        "minimal",
+        "calm",
+        "line",
+        "subtle"
+      ]
+    },
+    "mouth": {
+      "id": "mouth",
+      "category": "mouth",
+      "short_label": "basic neutral mouth",
+      "description": "A minimal, neutral mouth consisting of a simple closed-lip line or gentle curve centered under the nose. Designed as the default expression with a clean, unobtrusive style and no exaggerated features.",
+      "tags": [
+        "neutral",
+        "minimal",
+        "closed",
+        "small",
+        "default",
+        "centered"
+      ]
+    },
+    "mouth2": {
+      "id": "mouth2",
+      "category": "mouth",
+      "short_label": "Soft closed smile",
+      "description": "A simple, slightly upturned closed-mouth smile rendered as a clean curved line with minimal detail. Subtle and friendly in appearance, it reads as a neutral-to-happy expression and fits most face shapes without dominating the design.",
+      "tags": [
+        "closed",
+        "smile",
+        "curved",
+        "minimal",
+        "friendly",
+        "subtle"
+      ]
+    },
+    "mouth3": {
+      "id": "mouth3",
+      "category": "mouth",
+      "short_label": "subtle curved smile",
+      "description": "A simple, closed mouth formed by a thin, gently upturned curve suggesting a mild or neutral smile. Minimal, clean vector shape with little detail, suitable for friendly or calm expressions and versatile across avatar styles.",
+      "tags": [
+        "closed",
+        "subtle",
+        "smile",
+        "neutral",
+        "minimal",
+        "friendly",
+        "thin"
+      ]
+    },
+    "mouth4": {
+      "id": "mouth4",
+      "category": "mouth",
+      "short_label": "soft closed smile",
+      "description": "A small, subtle closed-mouth smile formed by a gentle upward curve. Clean, minimal line work with no teeth or tongue visible, giving a calm, friendly expression suitable for neutral-to-happy avatars.",
+      "tags": [
+        "subtle",
+        "closed",
+        "smile",
+        "friendly",
+        "minimal",
+        "calm"
+      ]
+    },
+    "mouth5": {
+      "id": "mouth5",
+      "category": "mouth",
+      "short_label": "Subtle closed smile",
+      "description": "A small-to-medium closed mouth with a gentle upward curve that reads as a subdued, friendly smile. Minimal detail—no visible teeth or tongue—making it suitable for neutral-to-happy expressions and casual avatars.",
+      "tags": [
+        "closed",
+        "smile",
+        "subtle",
+        "friendly",
+        "neutral",
+        "minimal"
+      ]
+    },
+    "mouth6": {
+      "id": "mouth6",
+      "category": "mouth",
+      "short_label": "subtle closed smile",
+      "description": "A medium-width, closed-mouth smile formed by a thin, gently curved line with slightly upturned corners. The style reads friendly and neutral — suitable for calm, pleasant or mildly amused expressions.",
+      "tags": [
+        "smile",
+        "closed",
+        "subtle",
+        "friendly",
+        "neutral",
+        "thin"
+      ]
+    },
+    "mouth7": {
+      "id": "mouth7",
+      "category": "mouth",
+      "short_label": "Gentle curved smile",
+      "description": "A medium-width, gently upward-curving mouth that reads as a relaxed, friendly smile. Thin linework with closed lips and slight corner lift, suitable for neutral-to-happy expressions without showing teeth.",
+      "tags": [
+        "smile",
+        "closed",
+        "friendly",
+        "subtle",
+        "thin-line",
+        "neutral-happy"
+      ]
+    },
+    "mouth8": {
+      "id": "mouth8",
+      "category": "mouth",
+      "short_label": "Subtle closed smile",
+      "description": "A small, gently curved closed-mouth smile with soft corners and minimal detail. Conveys a calm, friendly, neutral-positive expression suitable for relaxed or polite avatars.",
+      "tags": [
+        "subtle",
+        "closed",
+        "smile",
+        "small",
+        "friendly",
+        "neutral",
+        "calm"
+      ]
+    },
+    "side": {
+      "id": "side",
+      "category": "mouth",
+      "short_label": "side-profile mouth",
+      "description": "A mouth drawn from a profile/side view, typically a small curved or linear shape placed at the edge of the face. Minimal and understated, it conveys a subtle smirk, pursed lips, or neutral expression and works well for side-facing avatars or asymmetrical poses.",
+      "tags": [
+        "profile",
+        "side-facing",
+        "minimal",
+        "smirk",
+        "small",
+        "asymmetrical",
+        "neutral"
+      ]
+    },
+    "smile": {
+      "id": "smile",
+      "category": "mouth",
+      "short_label": "Friendly smile",
+      "description": "A simple, friendly upward-curving mouth: a clean crescent shape with gently upturned corners and minimal internal detail. Conveys a neutral-to-happy, approachable expression suitable for most positive avatar moods.",
+      "tags": [
+        "friendly",
+        "upturned",
+        "crescent",
+        "closed-lip",
+        "simple",
+        "happy",
+        "approachable"
+      ]
+    },
+    "smile-closed": {
+      "id": "smile-closed",
+      "category": "mouth",
+      "short_label": "Closed smile",
+      "description": "A simple closed-mouth smile formed by a gentle upward curve; thin, subtle lips with no teeth visible. Conveys a friendly, calm, or content expression suitable for neutral or mildly happy avatars.",
+      "tags": [
+        "closed",
+        "gentle",
+        "friendly",
+        "no-teeth",
+        "minimal",
+        "calm"
+      ]
+    },
+    "smile2": {
+      "id": "smile2",
+      "category": "mouth",
+      "short_label": "gentle open smile",
+      "description": "A medium-width, upward-curving smile with a slight open gap that suggests visible teeth. Simple, rounded lines give a friendly, cheerful expression suited for warm or happy avatars.",
+      "tags": [
+        "smile",
+        "open",
+        "teeth",
+        "friendly",
+        "medium-width",
+        "cheerful",
+        "simple"
+      ]
+    },
+    "smile3": {
+      "id": "smile3",
+      "category": "mouth",
+      "short_label": "Medium friendly smile",
+      "description": "A medium-width, gently upturned smile with slightly open lips, drawn in a simple, clean cartoon style. Conveys a warm, approachable expression suitable for neutral-to-happy avatars.",
+      "tags": [
+        "friendly",
+        "upturned",
+        "medium-width",
+        "slightly-open",
+        "cartoon",
+        "warm"
+      ]
+    },
+    "smile4": {
+      "id": "smile4",
+      "category": "mouth",
+      "short_label": "wide smiling mouth",
+      "description": "A moderately wide, upward-curving smile with a clean, cartoony lip line and a slight open gap that suggests visible teeth. Feels cheerful and confident, suitable for happy or friendly avatar expressions.",
+      "tags": [
+        "friendly",
+        "broad",
+        "curved",
+        "teeth",
+        "open",
+        "cheerful"
+      ]
+    },
+    "straight": {
+      "id": "straight",
+      "category": "mouth",
+      "short_label": "Straight Line Mouth",
+      "description": "A minimal horizontal mouth rendered as a thin straight line with little or no curvature. Conveys a neutral, deadpan, or expressionless look suitable for calm or minimalist avatars.",
+      "tags": [
+        "neutral",
+        "flat",
+        "minimal",
+        "linear",
+        "deadpan",
+        "calm"
+      ]
+    }
+  },
+  "nose": {
+    "honker": {
+      "id": "honker",
+      "category": "nose",
+      "short_label": "big bulbous nose",
+      "description": "A large, exaggerated bulbous nose with a rounded tip and clearly visible nostrils. Cartoonish and prominent, it reads as comedic or expressive and suits humorous, bold avatar styles.",
+      "tags": [
+        "bulbous",
+        "large",
+        "cartoon",
+        "prominent",
+        "rounded",
+        "nostrils"
+      ]
+    },
+    "nose1": {
+      "id": "nose1",
+      "category": "nose",
+      "short_label": "Simple small nose",
+      "description": "Basic, minimal nose with a small rounded tip and a subtle, short bridge. Neutral and unobtrusive, designed for generic or cartoon-style avatars without strong shading or detail.",
+      "tags": [
+        "small",
+        "rounded",
+        "minimal",
+        "neutral",
+        "cartoon",
+        "generic"
+      ]
+    },
+    "nose10": {
+      "id": "nose10",
+      "category": "nose",
+      "short_label": "small upturned nose",
+      "description": "A compact, slightly upturned nose with a rounded tip and minimal nostril detail. Clean, stylized silhouette that reads as youthful and neutral—good for cute or friendly avatar faces.",
+      "tags": [
+        "small",
+        "upturned",
+        "rounded",
+        "minimal",
+        "stylized",
+        "youthful",
+        "friendly"
+      ]
+    },
+    "nose11": {
+      "id": "nose11",
+      "category": "nose",
+      "short_label": "slender angular nose",
+      "description": "A medium-to-slim nose with a defined bridge and a tapered, slightly pointed tip. Subtle angular lines give it a mature, neutral appearance suitable for adult or stylized avatars.",
+      "tags": [
+        "slender",
+        "angular",
+        "defined-bridge",
+        "tapered-tip",
+        "neutral",
+        "adult"
+      ]
+    },
+    "nose12": {
+      "id": "nose12",
+      "category": "nose",
+      "short_label": "slender tapered nose",
+      "description": "A slender, slightly tapered nose with a defined bridge and a soft, slightly pointed tip. Minimal nostril detail and subtle shading create a clean, modern look suitable for neutral or refined facial types.",
+      "tags": [
+        "slender",
+        "tapered",
+        "defined bridge",
+        "small nostrils",
+        "neutral",
+        "modern",
+        "clean"
+      ]
+    },
+    "nose13": {
+      "id": "nose13",
+      "category": "nose",
+      "short_label": "medium rounded nose",
+      "description": "A medium-length nose with a softly rounded tip and a gentle bridge. Slight upturn and minimal nostril lines create a neutral-to-friendly appearance with clean, simple linework suited for casual or cheerful avatars.",
+      "tags": [
+        "medium",
+        "rounded",
+        "upturned",
+        "soft",
+        "minimal",
+        "friendly"
+      ]
+    },
+    "nose14": {
+      "id": "nose14",
+      "category": "nose",
+      "short_label": "slender upturned nose",
+      "description": "A narrow, slightly upturned nose with a subtle bridge and a softly rounded tip, drawn in a clean, minimal vector style. Low-detail silhouette suits youthful or friendly avatars and pairs well with neutral to cheerful expressions.",
+      "tags": [
+        "slender",
+        "upturned",
+        "rounded tip",
+        "minimal",
+        "youthful",
+        "friendly"
+      ]
+    },
+    "nose2": {
+      "id": "nose2",
+      "category": "nose",
+      "short_label": "rounded button nose",
+      "description": "A small, rounded 'button' nose with a gentle upward curve and minimal detail. Clean, understated shape that works well for neutral or friendly cartoon avatars and pairs with simple, flat styles.",
+      "tags": [
+        "small",
+        "rounded",
+        "button",
+        "upturned",
+        "minimal",
+        "friendly"
+      ]
+    },
+    "nose3": {
+      "id": "nose3",
+      "category": "nose",
+      "short_label": "Mid-sized rounded nose",
+      "description": "Simple, mid-sized rounded nose featuring a soft, slightly bulbous tip and a gently suggested bridge. Minimal line/shape styling makes it neutral and versatile for friendly or everyday avatars, and it reads well at small sizes.",
+      "tags": [
+        "rounded",
+        "medium",
+        "soft",
+        "minimal",
+        "neutral",
+        "versatile"
+      ]
+    },
+    "nose4": {
+      "id": "nose4",
+      "category": "nose",
+      "short_label": "rounded button nose",
+      "description": "A small, rounded 'button' nose with a subtle bridge and minimal nostril detail. Clean, simplified cartoon style with soft curves that reads as neutral and friendly on many avatar types.",
+      "tags": [
+        "button",
+        "rounded",
+        "small",
+        "subtle",
+        "cartoon",
+        "neutral"
+      ]
+    },
+    "nose5": {
+      "id": "nose5",
+      "category": "nose",
+      "short_label": "rounded medium nose",
+      "description": "A medium-width rounded nose with gentle curves and subtle nostril definition. Simple, neutral style suited for friendly or everyday avatar faces and works well in cartoon or flat illustrations. Versatile and unobtrusive so it blends with many face shapes.",
+      "tags": [
+        "medium",
+        "rounded",
+        "subtle",
+        "neutral",
+        "simple",
+        "cartoon",
+        "symmetrical"
+      ]
+    },
+    "nose6": {
+      "id": "nose6",
+      "category": "nose",
+      "short_label": "rounded button nose",
+      "description": "A small-to-medium, rounded button-style nose with a gentle bridge and subtle nostril lines. Clean, minimal cartoon rendering that reads neutral and friendly, suitable for many avatar styles.",
+      "tags": [
+        "small",
+        "rounded",
+        "button",
+        "minimal",
+        "neutral",
+        "friendly",
+        "cartoon"
+      ]
+    },
+    "nose7": {
+      "id": "nose7",
+      "category": "nose",
+      "short_label": "rounded upturned nose",
+      "description": "A simple, medium-sized cartoon nose with a softly rounded tip and subtle nostril lines. Slightly upturned profile and minimal linework, suitable for neutral or friendly avatars.",
+      "tags": [
+        "medium",
+        "rounded",
+        "upturned",
+        "minimal",
+        "cartoon",
+        "neutral"
+      ]
+    },
+    "nose8": {
+      "id": "nose8",
+      "category": "nose",
+      "short_label": "slim upturned nose",
+      "description": "A slim, slightly upturned nose with a gentle bridge and small, understated nostrils. The shape is clean and stylized, suitable for neutral or cheerful expressions and versatile across character ages. Works well for refined or youthful avatars.",
+      "tags": [
+        "slim",
+        "upturned",
+        "stylized",
+        "small-nostrils",
+        "neutral",
+        "youthful"
+      ]
+    },
+    "nose9": {
+      "id": "nose9",
+      "category": "nose",
+      "short_label": "Slender bridge nose",
+      "description": "A slightly elongated nose featuring a defined bridge and a modest, tapered tip with minimal nostril detail. Clean, neutral styling that reads as refined or mature without exaggerated caricature.",
+      "tags": [
+        "slender",
+        "defined-bridge",
+        "medium-length",
+        "minimal",
+        "neutral",
+        "refined"
+      ]
+    },
+    "pinocchio": {
+      "id": "pinocchio",
+      "category": "nose",
+      "short_label": "Pinocchio-style long nose",
+      "description": "An exaggerated, elongated nose inspired by Pinocchio, extending prominently from the face as a narrow, pointed projection. Stylized and cartoonish—suggests humor or lying rather than realistic anatomy, sometimes implying a wooden texture or simple geometric shape.",
+      "tags": [
+        "long",
+        "exaggerated",
+        "pointed",
+        "cartoon",
+        "comical",
+        "protruding",
+        "wooden"
+      ]
+    },
+    "small": {
+      "id": "small",
+      "category": "nose",
+      "short_label": "Small button nose",
+      "description": "Compact, low-profile nose with a rounded tip and minimal bridge detail. Reads as petite or youthful and pairs well with minimalist, friendly avatar styles.",
+      "tags": [
+        "small",
+        "button",
+        "rounded",
+        "minimal",
+        "subtle",
+        "youthful",
+        "low-profile"
+      ]
+    }
+  },
+  "smileLine": {
+    "line1": {
+      "id": "line1",
+      "category": "smileLine",
+      "short_label": "Thin curved smile",
+      "description": "A minimal single-line smile formed by a gentle upward curve. Simple and neutral, it conveys a subtle, friendly expression suitable for understated or flat-style avatars.",
+      "tags": [
+        "thin",
+        "curved",
+        "minimal",
+        "subtle",
+        "friendly",
+        "closed-mouth"
+      ]
+    },
+    "line2": {
+      "id": "line2",
+      "category": "smileLine",
+      "short_label": "Subtle curved smile",
+      "description": "A single thin stroke forming a gentle upward curve, representing a closed-mouth smile. Minimal and neutral-friendly, it conveys a calm, pleasant expression without strong emotion. Works well for simple, modern avatars where subtlety is desired.",
+      "tags": [
+        "thin",
+        "curved",
+        "closed-mouth",
+        "subtle",
+        "friendly",
+        "minimal"
+      ]
+    },
+    "line3": {
+      "id": "line3",
+      "category": "smileLine",
+      "short_label": "Simple curved smile",
+      "description": "A minimal closed-mouth smile shown as a single smooth upward curve with medium stroke weight and slightly tapered ends. Conveys a neutral-to-happy, friendly expression that works well for understated, approachable avatars.",
+      "tags": [
+        "upward-curved",
+        "closed",
+        "friendly",
+        "minimal",
+        "medium-thin"
+      ]
+    },
+    "line4": {
+      "id": "line4",
+      "category": "smileLine",
+      "short_label": "Thin curved smiling line",
+      "description": "A minimalist closed-mouth smile drawn as a single thin curved stroke with a moderate upward arc. The ends are slightly tapered for a gentle, friendly expression that reads calm and approachable. Suited for flat or low-detail avatars that need a subtle happy look.",
+      "tags": [
+        "thin",
+        "curved",
+        "closed-mouth",
+        "friendly",
+        "minimalist",
+        "gentle",
+        "subtle"
+      ]
+    },
+    "none": {
+      "id": "none",
+      "category": "smileLine",
+      "short_label": "no smile line",
+      "description": "This variant omits any smile crease or line beside the mouth, leaving the lower face clean and unaccented. It produces a minimalist, neutral expression suitable for young, stylized, or emotion-neutral avatars.",
+      "tags": [
+        "none",
+        "minimal",
+        "neutral",
+        "clean",
+        "no-lines",
+        "youthful"
+      ]
+    }
+  }
+}

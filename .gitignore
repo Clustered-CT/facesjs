@@ -1,0 +1,6 @@
+build
+build-site
+node_modules
+src/svgs.ts
+src/svgs-index.ts
+*.DS_Store
