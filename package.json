@@ -24,7 +24,7 @@
   "scripts": {
     "dev": "vite",
     "test": "pnpm tsc --noEmit --emitDeclarationOnly false && eslint && vitest run",
-    "build": "node tools/process-svgs.js && rm -rf build && babel src --extensions '.js,.jsx,.ts,.tsx' --out-dir build && tsc -p tsconfig-build.json",
+    "build": "node tools/process-svgs.js && node --input-type=module -e \"import { rmSync } from 'fs'; rmSync('build', { recursive: true, force: true });\" && babel src --extensions '.js,.jsx,.ts,.tsx' --out-dir build && tsc -p tsconfig-build.json",
     "build-site": "vite build",
     "prepare": "node tools/process-svgs.js && husky",
     "prepack": "pnpm test && pnpm run build"

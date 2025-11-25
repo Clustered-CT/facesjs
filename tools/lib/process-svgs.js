@@ -15,9 +15,10 @@ const processSVGs = async () => {
 
   for (const folder of folders) {
     if (folder === ".DS_Store") continue;
+    const subfolder = path.join(svgFolder, folder);
+    if (!fs.statSync(subfolder).isDirectory()) continue;
     svgs[folder] = {};
 
-    const subfolder = path.join(svgFolder, folder);
     const files = fs.readdirSync(subfolder);
     for (const file of files) {
       if (!file.endsWith(".svg")) continue;

@@ -111,11 +111,10 @@ type FeatureMetadata = {
   tags: string[];
 };
 
-const featureMetadata =
-  featureDescriptions as Record<
-    FeatureInfo["name"],
-    Record<string, FeatureMetadata>
-  >;
+const featureMetadata = featureDescriptions as Record<
+  FeatureInfo["name"],
+  Record<string, FeatureMetadata>
+>;
 
 const getFeatureMetadata = (
   featureName: FeatureInfo["name"],
@@ -254,29 +253,22 @@ const drawFeature = (
     }
 
     if (feature.hasOwnProperty("angle")) {
-      // @ts-expect-error
-      rotateCentered(element, (i === 0 ? 1 : -1) * feature.angle);
+      rotateCentered(element, (i === 0 ? 1 : -1) * (feature as any).angle);
     }
 
     // Flip if feature.flip is specified or if this is the second position (for eyes and eyebrows). Scale if feature.size is specified.
-    // @ts-expect-error
-    const scale = feature.hasOwnProperty("size") ? feature.size : 1;
+    const scale = feature.hasOwnProperty("size") ? (feature as any).size : 1;
     if (info.name === "body" || info.name === "jersey") {
-      // @ts-expect-error
       scaleCentered(element, bodySize, 1);
-      // @ts-expect-error
-    } else if (feature.flip || i === 1) {
-      // @ts-expect-error
+    } else if ((feature as any).flip || i === 1) {
       scaleCentered(element, -scale, scale);
     } else if (scale !== 1) {
-      // @ts-expect-error
       scaleCentered(element, scale, scale);
     }
 
     if (info.scaleFatness && info.positions[0] !== null) {
       // Scale individual feature relative to the edge of the head. If fatness is 1, then there are 47 pixels on each side. If fatness is 0, then there are 78 pixels on each side.
       const distance = (78 - 47) * (1 - face.fatness);
-      // @ts-expect-error
       translate(element, distance, 0, "left", "top");
     }
   }
