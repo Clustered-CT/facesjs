@@ -1,7 +1,10 @@
-import featureDescriptions from "../svgs/faces_descriptions.json";
+import { createRequire } from "node:module";
 import override from "./override.js";
 import svgs from "./svgs.js";
 import { FaceConfig, Overrides } from "./common.js";
+
+const require = createRequire(import.meta.url);
+const featureDescriptions = require("../svgs/faces_descriptions.json");
 
 const addWrapper = (svgString: string) => `<g>${svgString}</g>`;
 

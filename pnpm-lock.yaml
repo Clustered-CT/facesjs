@@ -24,6 +24,9 @@ importers:
       '@babel/core':
         specifier: ^7.24.7
         version: 7.24.7
+      '@babel/plugin-syntax-import-assertions':
+        specifier: ^7.24.7
+        version: 7.24.7(@babel/core@7.24.7)
       '@babel/preset-env':
         specifier: ^7.24.7
         version: 7.24.7(@babel/core@7.24.7)
