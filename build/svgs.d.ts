@@ -303,9 +303,11 @@ declare const _default: {
         hockey3: string;
         hockey4: string;
         "jersey-blazer": string;
+        "jersey-buttondown": string;
         "jersey-casual-tee": string;
         "jersey-hoodie": string;
         "jersey-shirt-tie": string;
+        "jersey-suit": string;
         jersey: string;
         jersey2: string;
         jersey3: string;

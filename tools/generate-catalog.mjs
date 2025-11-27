@@ -48,15 +48,15 @@ const tryWritePng = async (svgPath, pngPath) => {
   try {
     const { default: sharp } = await import("sharp");
     const svgBuffer = fs.readFileSync(svgPath);
-    // Downscale to avoid pixel limit errors and ensure portability
-    await sharp(svgBuffer, { density: 200, limitInputPixels: false })
-      .resize({ width: 2000, height: null, fit: "contain", background: "white" })
-      .png()
+    // Downscale aggressively to avoid pixel-limit errors
+    await sharp(svgBuffer, { density: 72, limitInputPixels: false })
+      .resize({ width: 800, height: null, fit: "contain", background: "white" })
+      .png({ compressionLevel: 9 })
       .toFile(pngPath);
     console.log(`Wrote ${pngPath}`);
   } catch (error) {
     console.warn(
-      `Skipping PNG output for ${pngPath}. Install sharp to enable PNG export (pnpm add -D sharp).`,
+      `PNG export failed for ${pngPath}: ${error?.message || error}. Install or fix sharp (pnpm add -D sharp) if missing.`,
     );
   }
 };

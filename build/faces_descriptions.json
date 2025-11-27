@@ -4177,6 +4177,34 @@
         "polished",
         "pockets"
       ]
+    },
+    "jersey-suit": {
+      "id": "jersey-suit",
+      "category": "jersey",
+      "short_label": "Suit",
+      "description": "Two-piece suit jacket over a shirt and tie with lapel accents. Polished, formal look for business or dressy avatars.",
+      "tags": [
+        "suit",
+        "formal",
+        "jacket",
+        "tie",
+        "lapels",
+        "business"
+      ]
+    },
+    "jersey-buttondown": {
+      "id": "jersey-buttondown",
+      "category": "jersey",
+      "short_label": "Button-down shirt",
+      "description": "Casual button-down shirt with a folded collar and contrast shoulder patches. Relaxed, neat look without a tie.",
+      "tags": [
+        "casual",
+        "shirt",
+        "button-down",
+        "collar",
+        "relaxed",
+        "neat"
+      ]
     }
   },
   "miscLine": {
