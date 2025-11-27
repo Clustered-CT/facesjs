@@ -88,7 +88,6 @@
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">ear3</text></g>
 <text x="24" y="1266" font-family="Arial, sans-serif" font-size="18" font-weight="bold">eye</text>
 <g transform="translate(24 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
-  <rect x="80" y="280" width="240" height="100" fill="rgba(0,0,0,0)" />
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M110 320 Q200 300 290 320" />
     <path d="M140 315 L130 305" />
@@ -97,7 +96,6 @@
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-closed</text></g>
 <g transform="translate(224 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
-  <rect x="80" y="280" width="240" height="100" fill="rgba(0,0,0,0)" />
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M105 315 Q200 295 295 315" />
     <path d="M105 325 Q200 305 295 325" />
@@ -106,7 +104,6 @@
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-narrow</text></g>
 <g transform="translate(424 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
-  <rect x="80" y="280" width="240" height="100" fill="rgba(0,0,0,0)" />
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M110 320 Q200 300 290 320" />
     <path d="M120 330 Q200 350 280 330" />
@@ -117,7 +114,6 @@
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-sleepy</text></g>
 <g transform="translate(624 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
-  <rect x="80" y="280" width="240" height="100" fill="rgba(0,0,0,0)" />
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M105 320 C150 285 250 285 295 320" />
     <path d="M105 320 Q200 350 295 320" fill="none" />
@@ -126,7 +122,6 @@
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-smile</text></g>
 <g transform="translate(824 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
-  <rect x="80" y="280" width="240" height="100" fill="rgba(0,0,0,0)" />
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <ellipse cx="200" cy="320" rx="80" ry="46" fill="#fff"/>
     <circle cx="200" cy="320" r="18" fill="#000" stroke="none"/>
