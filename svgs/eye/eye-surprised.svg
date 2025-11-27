@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="200" cy="320" rx="80" ry="46" fill="#fff"/>
-    <circle cx="200" cy="320" r="18" fill="#000" stroke="none"/>
-    <ellipse cx="200" cy="320" rx="80" ry="46" />
-    <path d="M120 295 Q200 275 280 295" />
+    <ellipse cx="200" cy="320" rx="55" ry="32" fill="#fff"/>
+    <circle cx="200" cy="320" r="14" fill="#000" stroke="none"/>
+    <ellipse cx="200" cy="320" rx="55" ry="32" />
+    <path d="M150 300 Q200 280 250 300" />
   </g>
 </svg>

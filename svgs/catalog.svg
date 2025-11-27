@@ -89,44 +89,44 @@
 <text x="24" y="1266" font-family="Arial, sans-serif" font-size="18" font-weight="bold">eye</text>
 <g transform="translate(24 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M110 320 Q200 300 290 320" />
-    <path d="M140 315 L130 305" />
-    <path d="M260 315 L270 305" />
+    <path d="M150 320 Q200 305 250 320" />
+    <path d="M170 315 L160 305" />
+    <path d="M230 315 L240 305" />
   </g>
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-closed</text></g>
 <g transform="translate(224 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M105 315 Q200 295 295 315" />
-    <path d="M105 325 Q200 305 295 325" />
-    <circle cx="200" cy="320" r="10" fill="#000" stroke="none"/>
+    <path d="M150 315 Q200 300 250 315" />
+    <path d="M150 325 Q200 310 250 325" />
+    <circle cx="200" cy="320" r="8" fill="#000" stroke="none"/>
   </g>
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-narrow</text></g>
 <g transform="translate(424 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M110 320 Q200 300 290 320" />
-    <path d="M120 330 Q200 350 280 330" />
-    <path d="M170 314 L180 308" />
-    <path d="M230 314 L220 308" />
-    <circle cx="200" cy="325" r="10" fill="#000" stroke="none"/>
+    <path d="M155 320 Q200 305 245 320" />
+    <path d="M165 330 Q200 345 235 330" />
+    <path d="M180 314 L188 308" />
+    <path d="M220 314 L212 308" />
+    <circle cx="200" cy="325" r="8" fill="#000" stroke="none"/>
   </g>
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-sleepy</text></g>
 <g transform="translate(624 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M105 320 C150 285 250 285 295 320" />
-    <path d="M105 320 Q200 350 295 320" fill="none" />
-    <circle cx="200" cy="315" r="16" fill="#000" stroke="none"/>
+    <path d="M150 315 C175 290 225 290 250 315" />
+    <path d="M150 315 Q200 340 250 315" fill="none" />
+    <circle cx="200" cy="310" r="12" fill="#000" stroke="none"/>
   </g>
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-smile</text></g>
 <g transform="translate(824 1288)"><rect width="180" height="240" rx="8" ry="8" fill="#f7f7f7" stroke="#ddd"/><g transform="translate(20.666666666666657 8) scale(0.3466666666666667)">
   <g transform="translate(0 -10)" stroke="#000" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="200" cy="320" rx="80" ry="46" fill="#fff"/>
-    <circle cx="200" cy="320" r="18" fill="#000" stroke="none"/>
-    <ellipse cx="200" cy="320" rx="80" ry="46" />
-    <path d="M120 295 Q200 275 280 295" />
+    <ellipse cx="200" cy="320" rx="55" ry="32" fill="#fff"/>
+    <circle cx="200" cy="320" r="14" fill="#000" stroke="none"/>
+    <ellipse cx="200" cy="320" rx="55" ry="32" />
+    <path d="M150 300 Q200 280 250 300" />
   </g>
 
 </g><text x="90" y="234" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#333">eye-surprised</text></g>
