@@ -44,12 +44,13 @@ const extractViewBox = (svg) => {
 const extractInner = (svg) =>
   svg.replace(/<svg[^>]*>/i, "").replace(/<\/svg>/i, "");
 
-const tryWritePng = async (svgPath, pngPath, width, height) => {
+const tryWritePng = async (svgPath, pngPath) => {
   try {
     const { default: sharp } = await import("sharp");
     const svgBuffer = fs.readFileSync(svgPath);
-    await sharp(svgBuffer, { density: 300 })
-      .resize({ width: Math.round(width), height: Math.round(height), fit: "contain", background: "white" })
+    // Downscale to avoid pixel limit errors and ensure portability
+    await sharp(svgBuffer, { density: 200, limitInputPixels: false })
+      .resize({ width: 2000, height: null, fit: "contain", background: "white" })
       .png()
       .toFile(pngPath);
     console.log(`Wrote ${pngPath}`);
@@ -126,7 +127,7 @@ const main = async () => {
   console.log(`Wrote ${outputPath}`);
 
 const pngPath = outputPath.replace(/\.svg$/i, ".png");
-await tryWritePng(outputPath, pngPath, width, height);
+await tryWritePng(outputPath, pngPath);
 };
 
 main().catch((error) => {
