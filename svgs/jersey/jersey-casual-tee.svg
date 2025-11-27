@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <!-- Simple crewneck tee in primary color with secondary sleeve bands -->
+  <path d="M120 200 L160 180 L240 180 L280 200 L300 260 L300 480 L100 480 L100 260 Z" fill="$[primary]" stroke="#000" stroke-width="6"/>
+  <path d="M120 210 L140 210 L140 240 L120 240 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
+  <path d="M280 210 L260 210 L260 240 L280 240 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
+  <path d="M180 190 L220 190 L220 210 L180 210 Z" fill="#fff" stroke="#000" stroke-width="4"/>
+</svg>

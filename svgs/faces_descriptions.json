@@ -379,6 +379,71 @@
         "small-pupil"
       ]
     },
+    "eye-closed": {
+      "id": "eye-closed",
+      "category": "eye",
+      "short_label": "Closed eyes",
+      "description": "Eyes fully closed with a gentle curved lash line and small lash ticks. Reads as calm/blinking, serene, or resting.",
+      "tags": [
+        "closed",
+        "calm",
+        "resting",
+        "serene",
+        "blink"
+      ]
+    },
+    "eye-smile": {
+      "id": "eye-smile",
+      "category": "eye",
+      "short_label": "Smiling eyes",
+      "description": "Curved upper and lower arcs framing a small pupil, giving a cheerful, smiling expression.",
+      "tags": [
+        "smiling",
+        "happy",
+        "curved",
+        "friendly",
+        "cheerful"
+      ]
+    },
+    "eye-narrow": {
+      "id": "eye-narrow",
+      "category": "eye",
+      "short_label": "Narrow eyes",
+      "description": "Slim, tapered eye shape with tight lids and a small pupil. Suggests focus, suspicion, or determined attitude.",
+      "tags": [
+        "narrow",
+        "focused",
+        "determined",
+        "alert",
+        "serious"
+      ]
+    },
+    "eye-sleepy": {
+      "id": "eye-sleepy",
+      "category": "eye",
+      "short_label": "Sleepy eyes",
+      "description": "Low upper lid with a soft lower arc and small pupil, plus slight lid folds. Communicates drowsy, relaxed, or laid-back mood.",
+      "tags": [
+        "sleepy",
+        "relaxed",
+        "drowsy",
+        "laid-back",
+        "soft"
+      ]
+    },
+    "eye-surprised": {
+      "id": "eye-surprised",
+      "category": "eye",
+      "short_label": "Surprised eye",
+      "description": "Wide, rounded eye with a large white area and small centered pupil, plus a lifted lid crease. Conveys surprise, awe, or shock.",
+      "tags": [
+        "surprised",
+        "wide",
+        "round",
+        "alert",
+        "shocked"
+      ]
+    },
     "eye2": {
       "id": "eye2",
       "category": "eye",
@@ -866,6 +931,76 @@
         "symmetrical",
         "clean",
         "confident"
+      ]
+    },
+    "eyebrow-arched-high": {
+      "id": "eyebrow-arched-high",
+      "category": "eyebrow",
+      "short_label": "High arch brow",
+      "description": "A high, clean arch with a smooth curve, giving an alert or mildly surprised expression. Thin-to-medium stroke with rounded ends.",
+      "tags": [
+        "arched",
+        "high",
+        "alert",
+        "surprised",
+        "clean",
+        "rounded"
+      ]
+    },
+    "eyebrow-thick-straight": {
+      "id": "eyebrow-thick-straight",
+      "category": "eyebrow",
+      "short_label": "Thick straight brow",
+      "description": "Bold, straight eyebrow with a heavy stroke and rounded ends. Reads as strong, assertive, and masculine/unisex.",
+      "tags": [
+        "thick",
+        "straight",
+        "bold",
+        "strong",
+        "assertive",
+        "unisex"
+      ]
+    },
+    "eyebrow-angled": {
+      "id": "eyebrow-angled",
+      "category": "eyebrow",
+      "short_label": "Angled brow",
+      "description": "Angular brow with a sharp center peak, conveying focus or intensity. Medium stroke, tapered ends.",
+      "tags": [
+        "angled",
+        "sharp",
+        "focused",
+        "intense",
+        "tapered",
+        "medium"
+      ]
+    },
+    "eyebrow-soft": {
+      "id": "eyebrow-soft",
+      "category": "eyebrow",
+      "short_label": "Soft arch brow",
+      "description": "Gentle, low arch with a light stroke for a calm, approachable look. Minimal and natural.",
+      "tags": [
+        "soft",
+        "arched",
+        "natural",
+        "approachable",
+        "light",
+        "minimal"
+      ]
+    },
+    "eyebrow-bushy": {
+      "id": "eyebrow-bushy",
+      "category": "eyebrow",
+      "short_label": "Bushy brow",
+      "description": "Thick, textured brow with subtle hair details. Conveys strong, rugged, or expressive character.",
+      "tags": [
+        "bushy",
+        "thick",
+        "textured",
+        "rugged",
+        "expressive",
+        "strong"
       ]
     },
     "eyebrow19": {
@@ -2501,6 +2636,21 @@
         "minimal"
       ]
     },
+    "glasses-round": {
+      "id": "glasses-round",
+      "category": "glasses",
+      "short_label": "Round wire frames",
+      "description": "Thin, round eyeglasses with a simple bridge and light arms. Minimal, vintage-inspired silhouette that reads as intellectual and unisex, with subtle color from the avatar palette.",
+      "tags": [
+        "round",
+        "thin-frame",
+        "wire",
+        "minimal",
+        "vintage",
+        "unisex",
+        "subtle-color"
+      ]
+    },
     "glasses2-black": {
       "id": "glasses2-black",
       "category": "glasses",
@@ -3970,6 +4120,62 @@
         "sporty",
         "casual",
         "paneling"
+      ]
+    },
+    "jersey-casual-tee": {
+      "id": "jersey-casual-tee",
+      "category": "jersey",
+      "short_label": "Casual tee",
+      "description": "Simple crewneck T-shirt with slight shoulder angles and sleeve bands in a secondary color. Light, everyday casual look.",
+      "tags": [
+        "casual",
+        "tee",
+        "crewneck",
+        "short-sleeve",
+        "minimal",
+        "everyday"
+      ]
+    },
+    "jersey-hoodie": {
+      "id": "jersey-hoodie",
+      "category": "jersey",
+      "short_label": "Hoodie",
+      "description": "Relaxed hoodie silhouette with drawstrings and contrast shoulder panels. Sporty-casual warmth with a laid-back vibe.",
+      "tags": [
+        "hoodie",
+        "casual",
+        "sporty",
+        "drawstring",
+        "relaxed",
+        "layered"
+      ]
+    },
+    "jersey-shirt-tie": {
+      "id": "jersey-shirt-tie",
+      "category": "jersey",
+      "short_label": "Shirt and tie",
+      "description": "Button-up shirt with a tie, folded collar, and subtle contrast shoulders. Formal or business-ready look.",
+      "tags": [
+        "formal",
+        "shirt",
+        "tie",
+        "collar",
+        "business",
+        "dressy"
+      ]
+    },
+    "jersey-blazer": {
+      "id": "jersey-blazer",
+      "category": "jersey",
+      "short_label": "Blazer",
+      "description": "Blazer layered over a shirt with lapel blocks and accent pockets. Smart casual to formal style for polished avatars.",
+      "tags": [
+        "blazer",
+        "formal",
+        "smart-casual",
+        "layered",
+        "polished",
+        "pockets"
       ]
     }
   },

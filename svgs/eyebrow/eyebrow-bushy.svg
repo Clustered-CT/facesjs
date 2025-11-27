@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <path d="M85 300 C150 280 250 280 315 300" fill="none" stroke="$[hairColor]" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M120 295 L110 285 M140 292 L130 282 M260 292 L270 282 M280 295 L290 285" fill="none" stroke="$[hairColor]" stroke-width="4" stroke-linecap="round"/>
+</svg>

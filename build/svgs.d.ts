@@ -21,6 +21,11 @@ declare const _default: {
         ear3: string;
     };
     eye: {
+        "eye-closed": string;
+        "eye-narrow": string;
+        "eye-sleepy": string;
+        "eye-smile": string;
+        "eye-surprised": string;
         eye1: string;
         eye10: string;
         eye11: string;
@@ -58,6 +63,11 @@ declare const _default: {
         female9: string;
     };
     eyebrow: {
+        "eyebrow-angled": string;
+        "eyebrow-arched-high": string;
+        "eyebrow-bushy": string;
+        "eyebrow-soft": string;
+        "eyebrow-thick-straight": string;
         eyebrow1: string;
         eyebrow10: string;
         eyebrow11: string;
@@ -185,6 +195,7 @@ declare const _default: {
     };
     glasses: {
         facemask: string;
+        "glasses-round": string;
         "glasses1-primary": string;
         "glasses1-secondary": string;
         "glasses2-black": string;
@@ -291,6 +302,10 @@ declare const _default: {
         hockey2: string;
         hockey3: string;
         hockey4: string;
+        "jersey-blazer": string;
+        "jersey-casual-tee": string;
+        "jersey-hoodie": string;
+        "jersey-shirt-tie": string;
         jersey: string;
         jersey2: string;
         jersey3: string;

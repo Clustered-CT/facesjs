@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
+  <g transform="translate(0 -10)" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Frames -->
+    <circle cx="130" cy="320" r="52" fill="none" stroke="$[primary]" stroke-width="8"/>
+    <circle cx="270" cy="320" r="52" fill="none" stroke="$[primary]" stroke-width="8"/>
+    <path d="M82 318 L58 312" stroke="$[primary]" stroke-width="7"/>
+    <path d="M318 318 L342 312" stroke="$[primary]" stroke-width="7"/>
+    <path d="M178 320 C190 312 210 312 222 320" stroke="$[primary]" stroke-width="8" fill="none"/>
+
+    <!-- Lenses -->
+    <circle cx="130" cy="320" r="48" fill="rgba(150,150,175,.5)" stroke="#000" stroke-width="2"/>
+    <circle cx="270" cy="320" r="48" fill="rgba(150,150,175,.5)" stroke="#000" stroke-width="2"/>
+
+    <!-- Outer stroke -->
+    <circle cx="130" cy="320" r="52" fill="none" stroke="#000" stroke-width="2"/>
+    <circle cx="270" cy="320" r="52" fill="none" stroke="#000" stroke-width="2"/>
+    <path d="M82 318 L58 312" stroke="#000" stroke-width="2"/>
+    <path d="M318 318 L342 312" stroke="#000" stroke-width="2"/>
+    <path d="M178 320 C190 312 210 312 222 320" stroke="#000" stroke-width="2" fill="none"/>
+
+    <!-- Glare -->
+    <path d="M116 308 L124 288 M124 308 L132 288" stroke="#fff" stroke-width="2" fill="none"/>
+    <path d="M256 308 L264 288 M264 308 L272 288" stroke="#fff" stroke-width="2" fill="none"/>
+  </g>
+</svg>
