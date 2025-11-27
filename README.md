@@ -47,6 +47,19 @@ display(element, face);
 
 If you'd like a non-random face, look inside the `face` variable and you'll see all the available options for a manually constructed face.
 
+### Swapping feature IDs programmatically
+
+If you need to swap specific feature IDs on an existing face object, you can use the helpers exported from the package:
+
+```javascript
+import { replaceFeatureIds, displayWithFeatureIds } from "facesjs";
+
+const updated = replaceFeatureIds(face, { eye: "eye-closed", mouth: "mouth4" });
+displayWithFeatureIds("my-div-id", face, { eye: "eye-closed" });
+```
+
+Both helpers return/apply a deep-copied face with only the specified feature IDs changed.
+
 ### Overrides
 
 Both `display` and `generate` accept an optional argument, specifying values to override either the randomly generated face (for `generate`) or the supplied face (for `display`). For instance:
@@ -140,6 +153,8 @@ const svg = faceToSvgString(face, { body: { color: "blue" } });
 
 `faceToSvgString` is intended to be used in Node.js If you are doing client-side JS, it would be more efficient to render a face to the DOM using `display` and then [convert it to a blob like this](https://github.com/zengm-games/facesjs/blob/19ce236af6adbf76db29c4e669210b30e1de0e1a/public/editor/downloadFace.ts#L61-L64).
 
+Every `<g>` wrapper created by `display` carries data attributes for feature tagging and metadata: `data-feature`, `data-feature-index`, `data-tag` (e.g. `left-eye`), and if present in `faces_descriptions.json`, `data-meta-id/category/short-label/description/tags`.
+
 ### CLI
 
 You can also use `facesjs` as a CLI program. All of the functionality from `generate` and `display` are available on the CLI too.
@@ -168,6 +183,10 @@ Generate a male white face and save it to test.svg:
     -g, --gender        Gender - male/female, default is male
 
 `--input-file` and `--input-json` can specify either an entire face object or a partial face object. If it's a partial face object, the other features will be random.
+
+## Catalog generation
+
+`tools/generate-catalog.mjs` builds a visual catalog of all feature SVGs into `svgs/catalog.svg` (and `svgs/catalog.png` when `sharp` is installed). The build script also copies `faces_descriptions.json`, `catalog.svg`, and `catalog.png` into `build/` for consumers.
 
 ## Development
 

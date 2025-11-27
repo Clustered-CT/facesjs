@@ -125,8 +125,8 @@ const main = async () => {
   fs.writeFileSync(outputPath, output, "utf8");
   console.log(`Wrote ${outputPath}`);
 
-  const pngPath = outputPath.replace(/\.svg$/i, ".png");
-  await tryWritePng(outputPath, pngPath, width, height);
+const pngPath = outputPath.replace(/\.svg$/i, ".png");
+await tryWritePng(outputPath, pngPath, width, height);
 };
 
 main().catch((error) => {
