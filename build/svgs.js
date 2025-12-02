@@ -66,11 +66,11 @@ export default {
     "female9": "<path d=\"M224 379.5c-.9-2.3-2.7-6-6.2-9-4.3-3.8-8.6-4.4-13.2-5-11.9-1.6-21.1 2.7-23.8 4-5.4 2.7-9.4 6.1-12.3 9\" style=\"fill:none;stroke:#000;stroke-width:5;stroke-miterlimit:10\"/><ellipse cx=\"200.2\" cy=\"379.5\" rx=\"11.5\" ry=\"13\" style=\"stroke:#000;stroke-width:5;stroke-miterlimit:10\"/><path d=\"M161.5 368.5c2.7 2.3 5.3 4.7 8 7m0-15c3 3.3 6 6.7 9 10\" style=\"stroke:#000;stroke-width:5;stroke-miterlimit:10\"/>"
   },
   "eyebrow": {
-    "eyebrow-angled": "<path fill=\"rgba(0,0,0,0)\" d=\"M70 270h260v80H70z\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m90 310 110-25 110 15\"/>",
-    "eyebrow-arched-high": "<path fill=\"rgba(0,0,0,0)\" d=\"M70 260h260v80H70z\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"10\" d=\"M90 290c70-30 150-30 220 0\"/>",
-    "eyebrow-bushy": "<path fill=\"rgba(0,0,0,0)\" d=\"M70 270h260v80H70z\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M85 300c65-20 165-20 230 0\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"4\" d=\"m120 295-10-10m30 7-10-10m130 10 10-10m10 13 10-10\"/>",
-    "eyebrow-soft": "<path fill=\"rgba(0,0,0,0)\" d=\"M70 270h260v80H70z\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"8\" d=\"M100 300c70-15 130-15 200 0\"/>",
-    "eyebrow-thick-straight": "<path fill=\"rgba(0,0,0,0)\" d=\"M70 270h260v80H70z\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"14\" d=\"M80 300h240\"/>",
+    "eyebrow-angled": "<path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"10\" d=\"m90 310 110-25 110 15\"/>",
+    "eyebrow-arched-high": "<path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"10\" d=\"M90 290c70-30 150-30 220 0\"/>",
+    "eyebrow-bushy": "<path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"14\" d=\"M85 300c65-20 165-20 230 0\"/><path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"4\" d=\"m120 295-10-10m30 7-10-10m130 10 10-10m10 13 10-10\"/>",
+    "eyebrow-soft": "<path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"8\" d=\"M100 300c70-15 130-15 200 0\"/>",
+    "eyebrow-thick-straight": "<path fill=\"none\" stroke=\"$[hairColor]\" stroke-linecap=\"round\" stroke-width=\"14\" d=\"M80 300h240\"/>",
     "eyebrow1": "<path fill=\"$[hairColor]\" stroke=\"#000\" d=\"M83 13C83 3 73 3 73 3 48-2 17.46 8.36 3 18c40-5 50 5 75 5 0 0 5 0 5-10Z\"/>",
     "eyebrow10": "<path fill=\"$[hairColor]\" stroke=\"#000\" d=\"M71 17c8-8 0-12 0-12S43 9 35 9C25 9 7 1 7 1S-5 5 7 17c8 8 8 8 28 8s33-5 36-8Z\"/>",
     "eyebrow11": "<path fill=\"$[hairColor]\" stroke=\"#000\" d=\"M73 13c8-8 0-12 0-12S45 5 37 5H1s20 12 40 12c12 0 28 0 32-4Z\"/>",
