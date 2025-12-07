@@ -69,11 +69,28 @@ const translate = (element, x, y, xAlign = "center", yAlign = "center") => {
 const fatScale = fatness => 0.8 + 0.2 * fatness;
 const featureMetadata = featureDescriptions;
 const getFeatureMetadata = (featureName, id) => featureMetadata?.[featureName]?.[id];
+const defaultTeamColors = ["#89bfd3", "#7a1319", "#07364f"];
+const resolveTeamColors = face => {
+  const tc = face.teamColors;
+  if (Array.isArray(tc) && tc.length === 3) {
+    return [tc[0] ?? defaultTeamColors[0], tc[1] ?? defaultTeamColors[1], tc[2] ?? defaultTeamColors[2]];
+  }
+  const jerseyTC = face.jersey?.teamColors;
+  if (jerseyTC) {
+    if (Array.isArray(jerseyTC) && jerseyTC.length === 3) {
+      return [jerseyTC[0] ?? defaultTeamColors[0], jerseyTC[1] ?? defaultTeamColors[1], jerseyTC[2] ?? defaultTeamColors[2]];
+    }
+    return [jerseyTC.primary ?? jerseyTC[0] ?? defaultTeamColors[0], jerseyTC.secondary ?? jerseyTC[1] ?? defaultTeamColors[1], jerseyTC.accent ?? jerseyTC[2] ?? defaultTeamColors[2]];
+  }
+  return defaultTeamColors;
+};
 const drawFeature = (svg, face, info) => {
   const feature = face[info.name];
-  if (!feature || !svgs[info.name]) {
+  const featureId = feature?.id ?? feature?.type;
+  if (!feature || !svgs[info.name] || !featureId) {
     return;
   }
+  feature.id = featureId;
   if (["hat", "hat2", "hat3"].includes(face.accessories.id) && info.name == "hair") {
     if (["afro", "afro2", "curly", "curly2", "curly3", "faux-hawk", "hair", "high", "juice", "messy-short", "messy", "middle-part", "parted", "shaggy1", "shaggy2", "short3", "spike", "spike2", "spike3", "spike4"].includes(face.hair.id)) {
       face.hair.id = "short";
@@ -85,7 +102,7 @@ const drawFeature = (svg, face, info) => {
   }
 
   // @ts-expect-error
-  let featureSVGString = svgs[info.name][feature.id];
+  let featureSVGString = svgs[info.name][featureId];
   if (!featureSVGString) {
     return;
   }
@@ -102,10 +119,11 @@ const drawFeature = (svg, face, info) => {
     featureSVGString = featureSVGString.replace("$[headShave]", feature.shave);
   }
   featureSVGString = featureSVGString.replace("$[skinColor]", face.body.color);
+  const [primaryColor, secondaryColor, accentColor] = resolveTeamColors(face);
   featureSVGString = featureSVGString.replace(/\$\[hairColor\]/g, face.hair.color);
-  featureSVGString = featureSVGString.replace(/\$\[primary\]/g, face.teamColors[0]);
-  featureSVGString = featureSVGString.replace(/\$\[secondary\]/g, face.teamColors[1]);
-  featureSVGString = featureSVGString.replace(/\$\[accent\]/g, face.teamColors[2]);
+  featureSVGString = featureSVGString.replace(/\$\[primary\]/g, primaryColor);
+  featureSVGString = featureSVGString.replace(/\$\[secondary\]/g, secondaryColor);
+  featureSVGString = featureSVGString.replace(/\$\[accent\]/g, accentColor);
   const bodySize = face.body.size !== undefined ? face.body.size : 1;
   let lastElement;
   for (let i = 0; i < info.positions.length; i++) {
@@ -118,7 +136,7 @@ const drawFeature = (svg, face, info) => {
     if (tag) {
       element.setAttribute("data-tag", tag);
     }
-    const metadata = getFeatureMetadata(info.name, feature.id);
+    const metadata = getFeatureMetadata(info.name, featureId);
     if (metadata) {
       element.setAttribute("data-meta-id", metadata.id);
       element.setAttribute("data-meta-category", metadata.category);
