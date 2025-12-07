@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
   <!-- Hoodie with drawstrings -->
-  <path d="M120 200 L150 170 L250 170 L280 200 L300 270 L300 480 L100 480 L100 270 Z" fill="$[primary]" stroke="#000" stroke-width="6"/>
-  <path d="M170 175 L230 175 L230 195 L170 195 Z" fill="#fff" stroke="#000" stroke-width="4"/>
-  <path d="M200 195 C185 220 185 250 185 270 L215 270 C215 250 215 220 200 195 Z" fill="none" stroke="#000" stroke-width="4"/>
-  <path d="M180 200 L180 250 M220 200 L220 250" stroke="#000" stroke-width="4"/>
-  <path d="M120 230 L100 250 L100 280 L120 260 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
-  <path d="M280 230 L300 250 L300 280 L280 260 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
+  <g transform="scale(1 0.5)">
+    <g transform="translate(0 720)">
+      <path d="M120 200 L150 170 L250 170 L280 200 L300 270 L300 480 L100 480 L100 270 Z" fill="$[primary]" stroke="#000" stroke-width="12"/>
+      <path d="M170 175 L230 175 L230 195 L170 195 Z" fill="#fff" stroke="#000" stroke-width="8"/>
+      <path d="M200 195 C185 220 185 250 185 270 L215 270 C215 250 215 220 200 195 Z" fill="none" stroke="#000" stroke-width="8"/>
+      <path d="M180 200 L180 250 M220 200 L220 250" stroke="#000" stroke-width="8"/>
+      <path d="M120 230 L100 250 L100 280 L120 260 Z" fill="$[secondary]" stroke="#000" stroke-width="8"/>
+      <path d="M280 230 L300 250 L300 280 L280 260 Z" fill="$[secondary]" stroke="#000" stroke-width="8"/>
+    </g>
+  </g>
 </svg>

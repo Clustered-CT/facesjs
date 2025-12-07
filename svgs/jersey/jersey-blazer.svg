@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600" width="400" height="600">
   <!-- Blazer over shirt -->
-  <path d="M120 200 L150 180 L250 180 L280 200 L305 280 L305 480 L95 480 L95 280 Z" fill="$[primary]" stroke="#000" stroke-width="6"/>
-  <path d="M160 190 L240 190 L240 230 L160 230 Z" fill="#fff" stroke="#000" stroke-width="4"/>
-  <path d="M200 230 L185 270 L200 300 L215 270 Z" fill="$[accent]" stroke="#000" stroke-width="4"/>
-  <path d="M110 260 L140 220 L180 300 L140 340 L110 300 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
-  <path d="M290 260 L260 220 L220 300 L260 340 L290 300 Z" fill="$[secondary]" stroke="#000" stroke-width="4"/>
-  <circle cx="185" cy="330" r="3" fill="#000"/>
-  <circle cx="215" cy="360" r="3" fill="#000"/>
+  <g transform="scale(1 0.5)">
+    <g transform="translate(0 720)">
+      <path d="M120 200 L150 180 L250 180 L280 200 L305 280 L305 480 L95 480 L95 280 Z" fill="$[primary]" stroke="#000" stroke-width="12"/>
+      <path d="M160 190 L240 190 L240 230 L160 230 Z" fill="#fff" stroke="#000" stroke-width="8"/>
+      <path d="M200 230 L185 270 L200 300 L215 270 Z" fill="$[accent]" stroke="#000" stroke-width="8"/>
+      <path d="M110 260 L140 220 L180 300 L140 340 L110 300 Z" fill="$[secondary]" stroke="#000" stroke-width="8"/>
+      <path d="M290 260 L260 220 L220 300 L260 340 L290 300 Z" fill="$[secondary]" stroke="#000" stroke-width="8"/>
+      <circle cx="185" cy="330" r="3" fill="#000"/>
+      <circle cx="215" cy="360" r="3" fill="#000"/>
+    </g>
+  </g>
 </svg>
